@@ -74,9 +74,11 @@ Enjoy :)
 | 1 | [**React Developer Tools**](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | React Developer Tools is a Chrome DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies in the Chrome Developer Tools. |
 | 2 | [**Redux DevTools**](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) | The extension provides power-ups for your Redux development workflow. Apart from Redux, it can be used with any other architectures which handle the state. |
 
-### Task Automation
+### Automation and Productivity Tools
+
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
+| 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 | No | Extension | Description |
@@ -153,3 +155,15 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 |[Lorem Ipsum Generator](https://chromewebstore.google.com/detail/lorem-ipsum-generator/pglahbfamjiifnafcicdibiiabpakkkb) | Quickly generate Lorem Ipsum placeholder text. Select a desired length and choose between paragraphs, words, bytes or lists. | 
 | 2 | [**Lipsum Generator**](https://chromewebstore.google.com/detail/lipsum-generator/fepopmflofkppphpkfjdbmimglkeifna) | Generate lorem ipsum dummy text in a drop of a hat. Over 1.5K users on Chrome Store. Available as a web app.| 
+
+### Writing and Grammar
+
+| No | Extension | Description |
+| ------ | ------------------------------------------------------ |---------------------|
+| 1 | [**Grammarly: Grammar Checker and AI Writing App**](https://chromewebstore.google.com/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) | Improve your writing with all-in-one communication assistance—including grammar check, generative AI, and more. |
+| 2 | [**Magical: AI Writer & Autofill Text Expander**](https://chromewebstore.google.com/detail/magical-ai-writer-autofil/iibninhmiggehlcdolcilmhacighjamp) | Magical’s free AI writer, text expander, and autofill extension automates repetitive tasks, powered by OpenAI tools (ChatGPT, GPT4). |
+| 3 | [**QuillBot: AI Writing and Grammar Checker Tool**](https://chromewebstore.google.com/detail/quillbot-ai-writing-and-g/iidnbdjijdkbmajdffnidomddglmieko) | Elevate your writing with QuillBot's AI-powered productivity tools: Grammar Checker, Paraphraser, AI writer, Summarizer, and more! |
+| 4 | [**GMPlus - Open AI ChatGPT for Email**](https://chromewebstore.google.com/detail/gmplus-open-ai-chatgpt-fo/abekedpmkgndeflcidpkkddapnjnocjp) | An AI-powered email assistant for email using ChatGPT. |
+| 5 | **TextCortex: Personal AI Assistant & AI Writer** | An AI companion that is designed to understand you and your writing needs. It actively presents options on how to make your content more authentic. |
+| 6 | [**Text Blaze: Templates and Snippets**](https://chromewebstore.google.com/detail/text-blaze-templates-and/idgadaccgipmpannjkmfddolnnhmeklj) | Create smart text expansions to get more done and streamline your work. Billions of keystrokes saved! |
+| 7 | [**ProKeys**](https://chromewebstore.google.com/detail/prokeys/ekfnbpgmmeahnnlpjibofkobpdkifapn) | Save time and effort in emails, etc., with ProKeys! Define snippets, do math in the browser, auto complete braces, and much more. |
