@@ -101,6 +101,8 @@ Enjoy :)
 | 7 | [**TabHub: Next-generation Tab Manager**](https://chrome.google.com/webstore/detail/tabhub-next-generation-ta/lmofhhaibahhojhinmpgmifdmennlcjn) | A next-generation tab manager. Manage tabs on cloud, track browsing time efficiently and reduce browser memory usage. |
 
 ### 🌍🔎 Web Scrapping (IG)
+| No | Extension | Description  |
+| ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**CSS Peeper**](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) | CSS Peeper is a tool for designers to view CSS styles, allowing them to focus on design by spending less time digging through code. |
 | 2 | [**Web Scraper - Free Web Scraping**](https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn) | Web data extraction tool with an easy point-and-click interface for modern web | 
 | 3 | [**Instant Data Scraper**](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) | Instant Data Scraper is an automated data extraction tool for any website. It uses AI to predict which data is most relevant on a HTML page and allows saving it to Excel or CSV file (XLS, XLSX, CSV). | 
