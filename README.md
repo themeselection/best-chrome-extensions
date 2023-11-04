@@ -124,12 +124,32 @@ Enjoy :)
 | 5 | [**Chroma: Eyedropper & Color Picker Tool**](https://chrome.google.com/webstore/detail/chroma-eyedropper-color-p/pkgejkfioihnchalojepdkefnpejomgn) | Best Chrome extension for Eyedropper, color picker, and palette creator. Generate sharable palette pages, pick your colors from any pages, and many more. |
 | 6 | [**Palette creator**](https://chrome.google.com/webstore/detail/palette-creator/iofmialeiddolmdlkbheakaefefkjokp) | Creates a colour palette from any image. Just right-click on the image and select the “Palette Creator” option. |
 | 7 | [**Amazing color picker**](https://chrome.google.com/webstore/detail/amazing-color-picker/hclbckmnpbnkcpemopdngipibdagmjei) | The Amazing Color Picker app helps you get HEX color from the page. |
-| 8 | **[ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)** | ColorZilla is the most user-friendly, full-featured, secure and reliable color picker and color related suite of tools. | 
+| 8 | **[ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)** | ColorZilla is the most user-friendly, full-featured, secure, and reliable color picker and color related suite of tools. | 
 
 ### 🆎 Typography Tools
-| No | Extension | Description  | Download |
-| ------ | ------------------------------------------------------ |---------------------|----------------------------------------------|
+| No | Extension | Description  |
+| ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Fonts Ninja**](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) | Identify fonts from any website, bookmark, try, and buy them. |
 | 2 | [**What Font**](https://chrome.google.com/webstore/detail/what-font-find-font/acpcapnaopbhbelhmbbmppghilclpkep/) | Lets you know what font is used on any website |
 | 3 | [**What Font - font finder**](https://chrome.google.com/webstore/detail/what-font-font-finder/opogloaldjiplhogobhmghlgnlciebin) | Identify the font on a web page, html font size, color, and font family. This extension has a simple and intuitive interface for a more pleasant experience. |
 
+## All-time Best Chrome Extensions
+
+### 🎥 Screen Capture and Recording
+| No | Extension | Description  |
+| ------ | ------------------------------------------------------ |---------------------|
+| 1 | **[Nimbus Screenshot & Screen Video Recorder](https://chromewebstore.google.com/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)** | Make online screencasts of your desktop or selected browser tabs, or create videos using your webcam. | 
+| 2 | [**GoFullPage - Full Page Screen Capture**](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) | Capture a screenshot of your current page in its entirety and reliably—without requesting any extra permissions! |
+| 3 | [**Lightshot Downloader**](https://chromewebstore.google.com/detail/lightshot-downloader/opgmkcnbfkfkpefcbcidclkcenhgjnim) | This extension allows you to open Lightshot screenshots via direct URL. Photos can be uploaded for photo editing. |
+| 4 | [**Awesome ChatGPT Screenshot & Screen Recorder**](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj) | The best screen recorder and screen capture tool to record the screen. |
+| 5 | [**Fast Screenshot**](https://chromewebstore.google.com/detail/hgpjdhlbmdipmklooeilcjnjikagmkej) | A lightweight and simple screenshot of a website's viewport. |
+| 6 | [**Scrnli - Screen Recorder & Screen Capture App**](https://chrome.google.com/webstore/detail/scrnli-screen-recorder-sc/ijejnggjjphlenbhmjhhgcdpehhacaal) | Free and easy-to-use screen recorder and screen capture tool. Take screenshots or screen records, edit, download, and share. |
+| 7 | [**Screenshot & Screen Recorder**](https://chrome.google.com/webstore/detail/screenshot-screen-recorde/okkffdhbfplmbjblhgapnchjinanmnij) | Screen recorder and screen capture, screenshot tool to record the screen. Edit, add comments, and share. Take screenshots. |
+| 8 | [**Web Paint Tool - draw online**](https://chrome.google.com/webstore/detail/web-paint-tool-draw-onlin/iklgljbighkgbjoecoddejooldolenbj) | Draw rectangles, circles, lines, and other shapes or add text on any web pages, then make a screenshot of the result. |
+| 9 | [**Screen Capture, Screenshot, Annotations**](https://chrome.google.com/webstore/detail/screen-capture-screenshot/bmkgbgkneealfabgnjfeljaiegpginpl) | Get more out of your screen captures! The best screen recorder and screen capture & screenshot tool to record the screen. |
+
+### 🖋️ Text Generator 
+| No | Extension | Description  |
+| ------ | ------------------------------------------------------ |---------------------|
+| 1 |[Lorem Ipsum Generator](https://chromewebstore.google.com/detail/lorem-ipsum-generator/pglahbfamjiifnafcicdibiiabpakkkb) | Quickly generate Lorem Ipsum placeholder text. Select a desired length and choose between paragraphs, words, bytes or lists. | 
+| 2 | [**Lipsum Generator**](https://chromewebstore.google.com/detail/lipsum-generator/fepopmflofkppphpkfjdbmimglkeifna) | Generate lorem ipsum dummy text in a drop of a hat. Over 1.5K users on Chrome Store. Available as a web app.| 
