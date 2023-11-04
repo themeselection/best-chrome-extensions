@@ -164,7 +164,7 @@ Enjoy :)
 | 1 |[**Lorem Ipsum Generator**](https://chromewebstore.google.com/detail/lorem-ipsum-generator/pglahbfamjiifnafcicdibiiabpakkkb) | Quickly generate Lorem Ipsum placeholder text. Select a desired length and choose between paragraphs, words, bytes or lists. | 
 | 2 | [**Lipsum Generator**](https://chromewebstore.google.com/detail/lipsum-generator/fepopmflofkppphpkfjdbmimglkeifna) | Generate lorem ipsum dummy text in a drop of a hat. Over 1.5K users on Chrome Store. Available as a web app.| 
 
-### Writing and Grammar
+### ✏ Writing and Grammar
 
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
