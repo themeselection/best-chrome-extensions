@@ -45,6 +45,8 @@ Enjoy :)
 | 10 | [**Yet Another REST Client**](https://chromewebstore.google.com/detail/yet-another-rest-client/ehafadccdcdedbhcbddihehiodgcddpl) | Easy-to-use REST Client to develop, test, and debug RESTful APIs. |
 
 ### 🖌️ CSS Tools
+---
+
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Live editor for CSS, Less & Sass - Magic CSS**](https://chromewebstore.google.com/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol) | With this tool, you can start writing your CSS/Less/Sass code in the browser extension and see it applied instantly. Your code will be saved in the extension or site's local storage. |
@@ -53,17 +55,23 @@ Enjoy :)
 | 4 | [**Quickfix CSS Editor**](https://chromewebstore.google.com/detail/quickfix-css-editor/nfebnkiihbkhjjeomdjjmeafdkdepjbe) | Use Quickfix to easily adjust, add, or delete CSS without having to upload it or deploy it. Quickfix is a really easy way to edit CSS in Google Chrome. |
 
 ### 🗂️ Version Control
+---
+
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Gitako - GitHub file tree**](https://chromewebstore.google.com/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk) | Gitako is a browser extension that provides a file tree view for GitHub repositories. It enhances the GitHub user interface by adding a sidebar that displays the directory structure of the repository you are currently viewing. |
 | 2 | [**Refined GitHub**](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) | GitHub offers basic version-control features, while Refined GitHub enhances the experience with added functionality and customization options for version-controlled projects. |
 
 ### 📈 Workflow
+---
+
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Wappalyzer - Technology profiler**](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) | This extension is a technology profiler that shows you what websites are built with and Find out what CMS a website is using, as well as any framework, ecommerce platform, etc. |
 
 ### 🛡️ Password Manager & Security
+---
+
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1      | [**LastPass: Free Password Manager**](https://chromewebstore.google.com/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)             | An award-winning password manager that saves your passwords and gives you secure access from every computer and mobile device from your browser. |
@@ -77,18 +85,23 @@ Enjoy :)
 | 9      | [**Bitwarden - Free Password Manager**](https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) | Bitwarden is the easiest and safest way to store all of your logins and passwords while conveniently keeping them synced between all of your devices. |
 
 ### 📚 Frameworks and Libraries
+---
+
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**React Developer Tools**](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | React Developer Tools is a Chrome DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies in the Chrome Developer Tools. |
 | 2 | [**Redux DevTools**](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) | The extension provides power-ups for your Redux development workflow. Apart from Redux, it can be used with any other architectures which handle the state. |
 
 ### Automation and Productivity Tools
+---
 
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
+---
+
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**AdGuard VPN — free & secure proxy for Chrome**](https://chrome.google.com/webstore/detail/adguard-vpn-%E2%80%94-free-secure/hhdobjgopfphlmjbmnpglhfcgppchgje) | A Freemium VPN extension to surf the Internet fast, safely, and securely. Protect your privacy and stay anonymous with our private VPN proxy. |
@@ -98,19 +111,9 @@ Enjoy :)
 | 5 | [**Hotspot Shield**](https://chrome.google.com/webstore/detail/hotspot-shield/nlbejmccbhkncgokjcmghpfloaajcffj) | Hotspot Shield VPN Proxy provides a secure proxy connection through an encrypted channel between your device and the target website, using VPN technology. |
 | 6 | [**Astar VPN - Free and fast VPN for everyone**](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh) | Encrypt your connection, access our secure proxy servers & unblock websites easily. |
 
+### 🌍🔎 Web Scrapping
+---
 
-### 📂 Tab Management (IG)
-| No | Extension | Description  |
-| ------ | ------------------------------------------------------ |---------------------|
-| 1 | [**Workona Spaces & Tab Manager**](https://chrome.google.com/webstore/detail/workona-spaces-tab-manage/ailcmbgekjpnablpdkmaaccecekgdhlh) | This Best Chrome Extension will help you get your work under control and finally feel organized. Use it to manage tabs, organize projects, and bring together all of your work in the browser. |
-| 2 | [**TABLERONE tab manager**](https://chrome.google.com/webstore/detail/tablerone-tab-manager/andpjllgocabfacjlelkfpdemfklpfpo) | All-in-one tab manager to save tabs, restore sessions, and Organise bookmarks. |
-| 3 | [**Tabrr Dashboard**](https://chrome.google.com/webstore/detail/tabrr-dashboard-new-tab-w/ehmneimbopigfgchjglgngamiccjkijh/) | Get this extension to get a personal dashboard with organized bookmarks favorite websites, Widgets like clock, notes, search, image widgets, ChatGPT and many more when you open a New Tab. |
-| 4 | [**TabXpert - Session and Tab manager**](https://chrome.google.com/webstore/detail/tabxpert-session-and-tab/maomempcdmkfcjgeabecfpkebghcigac) | Easily organize your tabs into tab groups and work sessions. TabXpert automatically tracks your tabs and tab groups. Simply drag and drop your tabs between sessions as needed. |
-| 5 | [**Mark tab manager**](https://chrome.google.com/webstore/detail/mark-tab-manager/filgplhfalgafolkffphilkgckdgnona/) | Mark is a minimalist tab manager that organizes tabs as you browse. With Mark, tabs are automatically grouped by domain and sorted alphabetically so you can easily find them later. |
-| 6 | [**Pondr: Tab Manager & Bookmark Reminder**](https://chrome.google.com/webstore/detail/pondr-tab-manager-bookmar/dmldofeoomonpalhgkbnfckliaeghjag) | This Chrome Extension manages bookmarks and suggests you the best time to revisit them. |
-| 7 | [**TabHub: Next-generation Tab Manager**](https://chrome.google.com/webstore/detail/tabhub-next-generation-ta/lmofhhaibahhojhinmpgmifdmennlcjn) | A next-generation tab manager. Manage tabs on cloud, track browsing time efficiently and reduce browser memory usage. |
-
-### 🌍🔎 Web Scrapping (IG)
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**CSS Peeper**](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) | CSS Peeper is a tool for designers to view CSS styles, allowing them to focus on design by spending less time digging through code. |
@@ -125,6 +128,8 @@ Enjoy :)
 ## 🎨 Chrome Extensions Useful for Designers
 
 ### 🌈 Best Color Pickers and Palettes Chrome Extensions
+---
+
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Smart Color Picker**](https://chrome.google.com/webstore/detail/smart-color-picker/ilifjbbjhbgkhgabebllmlcldfdgopfl?) | Smartest color picker tool for your browser. HEX, RGB, HSL colors, eyedropper tool, website palette. |
@@ -137,6 +142,8 @@ Enjoy :)
 | 8 | **[ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)** | ColorZilla is the most user-friendly, full-featured, secure, and reliable color picker and color related suite of tools. | 
 
 ### 🆎 Typography Tools
+---
+
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Fonts Ninja**](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) | Identify fonts from any website, bookmark, try, and buy them. |
@@ -144,6 +151,19 @@ Enjoy :)
 | 3 | [**What Font - font finder**](https://chrome.google.com/webstore/detail/what-font-font-finder/opogloaldjiplhogobhmghlgnlciebin) | Identify the font on a web page, html font size, color, and font family. This extension has a simple and intuitive interface for a more pleasant experience. |
 
 ## All-time Best Chrome Extensions
+
+### 📂 Tab Management
+---
+
+| No | Extension | Description  |
+| ------ | ------------------------------------------------------ |---------------------|
+| 1 | [**Workona Spaces & Tab Manager**](https://chrome.google.com/webstore/detail/workona-spaces-tab-manage/ailcmbgekjpnablpdkmaaccecekgdhlh) | This Best Chrome Extension will help you get your work under control and finally feel organized. Use it to manage tabs, organize projects, and bring together all of your work in the browser. |
+| 2 | [**TABLERONE tab manager**](https://chrome.google.com/webstore/detail/tablerone-tab-manager/andpjllgocabfacjlelkfpdemfklpfpo) | All-in-one tab manager to save tabs, restore sessions, and Organise bookmarks. |
+| 3 | [**Tabrr Dashboard**](https://chrome.google.com/webstore/detail/tabrr-dashboard-new-tab-w/ehmneimbopigfgchjglgngamiccjkijh/) | Get this extension to get a personal dashboard with organized bookmarks favorite websites, Widgets like clock, notes, search, image widgets, ChatGPT and many more when you open a New Tab. |
+| 4 | [**TabXpert - Session and Tab manager**](https://chrome.google.com/webstore/detail/tabxpert-session-and-tab/maomempcdmkfcjgeabecfpkebghcigac) | Easily organize your tabs into tab groups and work sessions. TabXpert automatically tracks your tabs and tab groups. Simply drag and drop your tabs between sessions as needed. |
+| 5 | [**Mark tab manager**](https://chrome.google.com/webstore/detail/mark-tab-manager/filgplhfalgafolkffphilkgckdgnona/) | Mark is a minimalist tab manager that organizes tabs as you browse. With Mark, tabs are automatically grouped by domain and sorted alphabetically so you can easily find them later. |
+| 6 | [**Pondr: Tab Manager & Bookmark Reminder**](https://chrome.google.com/webstore/detail/pondr-tab-manager-bookmar/dmldofeoomonpalhgkbnfckliaeghjag) | This Chrome Extension manages bookmarks and suggests you the best time to revisit them. |
+| 7 | [**TabHub: Next-generation Tab Manager**](https://chrome.google.com/webstore/detail/tabhub-next-generation-ta/lmofhhaibahhojhinmpgmifdmennlcjn) | A next-generation tab manager. Manage tabs on cloud, track browsing time efficiently and reduce browser memory usage. |
 
 ### 🎥 Screen Capture and Recording
 | No | Extension | Description  |
