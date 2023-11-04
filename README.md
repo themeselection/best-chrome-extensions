@@ -35,6 +35,14 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Mobile simulator - responsive testing tool**](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk) | A smartphone and tablet simulator on a computer with 52 devices are available for responsive tests |
 | 2 | [**Responsive Viewer**](https://chromewebstore.google.com/detail/inmopeiepgfljkpkidclfgbgbmfcennb) | This extension will help you to show multiple screens in one view and to allow front-end developers to test multiple screens while developing responsive websites/applications. |
+| 3 | [**Clear Cache**](https://chromewebstore.google.com/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn) | Clear your cache and browsing data with a single click of a button. |
+| 4 | [**Dimensions**](https://chromewebstore.google.com/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj) | Measure distances between elements on a website like images, input fields, buttons, videos, gifs, text, icons, etc. |
+| 5 | [**Meta Pixel Helper**](https://chromewebstore.google.com/detail/meta-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc) | A troubleshooting tool that helps you validate your pixel implementation. |
+| 6 | [**Ghost Inspector - Web Test Recorder**](https://chromewebstore.google.com/detail/ghost-inspector-web-test/aicdiabnghjnejfempeinmnphllefehc) | An automated browser testing service to run tests on websites and web applications. |
+| 7 | [**Bug Magnet**](https://chromewebstore.google.com/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) | Exploratory testing assistant for Chrome. |
+| 8 | [**Exploratory Testing Chrome Extension**](https://chromewebstore.google.com/detail/exploratory-testing-chrom/khigmghadjljgjpamimgjjmpmlbgmekj) | Chrome extension designed to make web exploratory testing easier. |
+| 9 | [**WAVE Evaluation Tool**](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) | Evaluate web accessibility within your browser. |
+| 10 | [**Yet Another REST Client**](https://chromewebstore.google.com/detail/yet-another-rest-client/ehafadccdcdedbhcbddihehiodgcddpl) | Easy-to-use REST Client to develop, test, and debug RESTful APIs. |
 
 ### 🖌️ CSS Tools
 | No | Extension | Description  |
