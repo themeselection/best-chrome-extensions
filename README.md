@@ -153,7 +153,7 @@ Enjoy :)
 ### 🖋️ Text Generator 
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
-| 1 |[Lorem Ipsum Generator](https://chromewebstore.google.com/detail/lorem-ipsum-generator/pglahbfamjiifnafcicdibiiabpakkkb) | Quickly generate Lorem Ipsum placeholder text. Select a desired length and choose between paragraphs, words, bytes or lists. | 
+| 1 |[**Lorem Ipsum Generator**](https://chromewebstore.google.com/detail/lorem-ipsum-generator/pglahbfamjiifnafcicdibiiabpakkkb) | Quickly generate Lorem Ipsum placeholder text. Select a desired length and choose between paragraphs, words, bytes or lists. | 
 | 2 | [**Lipsum Generator**](https://chromewebstore.google.com/detail/lipsum-generator/fepopmflofkppphpkfjdbmimglkeifna) | Generate lorem ipsum dummy text in a drop of a hat. Over 1.5K users on Chrome Store. Available as a web app.| 
 
 ### Writing and Grammar
@@ -164,6 +164,6 @@ Enjoy :)
 | 2 | [**Magical: AI Writer & Autofill Text Expander**](https://chromewebstore.google.com/detail/magical-ai-writer-autofil/iibninhmiggehlcdolcilmhacighjamp) | Magical’s free AI writer, text expander, and autofill extension automates repetitive tasks, powered by OpenAI tools (ChatGPT, GPT4). |
 | 3 | [**QuillBot: AI Writing and Grammar Checker Tool**](https://chromewebstore.google.com/detail/quillbot-ai-writing-and-g/iidnbdjijdkbmajdffnidomddglmieko) | Elevate your writing with QuillBot's AI-powered productivity tools: Grammar Checker, Paraphraser, AI writer, Summarizer, and more! |
 | 4 | [**GMPlus - Open AI ChatGPT for Email**](https://chromewebstore.google.com/detail/gmplus-open-ai-chatgpt-fo/abekedpmkgndeflcidpkkddapnjnocjp) | An AI-powered email assistant for email using ChatGPT. |
-| 5 | **TextCortex: Personal AI Assistant & AI Writer** | An AI companion that is designed to understand you and your writing needs. It actively presents options on how to make your content more authentic. |
+| 5 | **[TextCortex: Personal AI Assistant & AI Writer]** (https://chromewebstore.google.com/detail/textcortex-personal-ai-as/hahkojdegblcccihngmgndhdfheheofe)| An AI companion that is designed to understand you and your writing needs. It actively presents options on how to make your content more authentic. |
 | 6 | [**Text Blaze: Templates and Snippets**](https://chromewebstore.google.com/detail/text-blaze-templates-and/idgadaccgipmpannjkmfddolnnhmeklj) | Create smart text expansions to get more done and streamline your work. Billions of keystrokes saved! |
 | 7 | [**ProKeys**](https://chromewebstore.google.com/detail/prokeys/ekfnbpgmmeahnnlpjibofkobpdkifapn) | Save time and effort in emails, etc., with ProKeys! Define snippets, do math in the browser, auto complete braces, and much more. |
