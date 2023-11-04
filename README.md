@@ -34,7 +34,7 @@ Enjoy :)
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Mobile simulator - responsive testing tool**](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk) | A smartphone and tablet simulator on a computer with 52 devices are available for responsive tests |
-| 2 | [Responsive Viewer](https://chromewebstore.google.com/detail/inmopeiepgfljkpkidclfgbgbmfcennb) | This extension will help you to show multiple screens in one view and to allow front-end developers to test multiple screens while developing responsive websites/applications. |
+| 2 | [**Responsive Viewer**](https://chromewebstore.google.com/detail/inmopeiepgfljkpkidclfgbgbmfcennb) | This extension will help you to show multiple screens in one view and to allow front-end developers to test multiple screens while developing responsive websites/applications. |
 
 ### 🖌️ CSS Tools
 | No | Extension | Description  |
@@ -64,7 +64,7 @@ Enjoy :)
 | 4      | [**Nord Pass**](https://chromewebstore.google.com/detail/nordpass%C2%AE-password-manage/fooolghllnmhmmndgjiamiiodkpenpbb) | The NordPass password manager lets you keep passwords safe in one place to autosave, autofill, and access them on any device, anytime. |
 | 5      | [**RoboForm Password Manager**](https://chromewebstore.google.com/detail/roboform-password-manager/pnlccmojcmeohlpggmfnbbiapkmbliob) | A simple and seamless password manager for all your devices. Manage your passwords from our intuitive and easy-to-use browser extension and web editor. |
 | 6      | [**SaaSPass**](https://chromewebstore.google.com/detail/free-password-manager-aut/nhhldecdfagpbfggphklkaeiocfnaafm) | A free Password Manager & Authenticator 2FA code generator with autofill & autologin capabilities.                |
-| 7      | [DualSafe Password Manager & Digital Vault](https://chromewebstore.google.com/detail/dualsafe-password-manager/lgbjhdkjmpgjgcbcdlhkokkckpjmedgc) | DualSafe Password Manager extension lets you safely manage passwords in one place to autosave, autofill & access them anytime. |
+| 7      | [**DualSafe Password Manager & Digital Vault**](https://chromewebstore.google.com/detail/dualsafe-password-manager/lgbjhdkjmpgjgcbcdlhkokkckpjmedgc) | DualSafe Password Manager extension lets you safely manage passwords in one place to autosave, autofill & access them anytime. |
 | 8      | [**Proton Pass: Free Password Manager**](https://chromewebstore.google.com/detail/proton-pass-free-password/ghmbeldphafepmbegfdlkpapadhbakde) | Free and unlimited password manager to keep your login credentials safe and manage them directly in your browser. |
 | 9      | [**Bitwarden - Free Password Manager**](https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) | Bitwarden is the easiest and safest way to store all of your logins and passwords while conveniently keeping them synced between all of your devices. |
 
@@ -74,12 +74,16 @@ Enjoy :)
 | 1 | [**React Developer Tools**](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | React Developer Tools is a Chrome DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies in the Chrome Developer Tools. |
 | 2 | [**Redux DevTools**](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) | The extension provides power-ups for your Redux development workflow. Apart from Redux, it can be used with any other architectures which handle the state. |
 
+### Task Automation
+| No | Extension | Description |
+| ------ | ------------------------------------------------------ |---------------------|
+
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**AdGuard VPN — free & secure proxy for Chrome**](https://chrome.google.com/webstore/detail/adguard-vpn-%E2%80%94-free-secure/hhdobjgopfphlmjbmnpglhfcgppchgje) | A Freemium VPN extension to surf the Internet fast, safely, and securely. Protect your privacy and stay anonymous with our private VPN proxy. |
 | 2 | [**1clickVPN Free VPN for Chrome**](https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/fcfhplploccackoneaefokcmbjfbkenj) | Best Chrome Extension to Bypass any online restrictions and safeguard your internet experience. |
-| 3 | [VeePN - Free VPN for Chrome](https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno?) | Fast, ultra-secure, and easy-to-use VPN service that enables you to protect your privacy online. It hides your location and secures your personal data. |
+| 3 | [**VeePN - Free VPN for Chrome**](https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno?) | Fast, ultra-secure, and easy-to-use VPN service that enables you to protect your privacy online. It hides your location and secures your personal data. |
 | 4 | [**Planet VPN - Free VPN Proxy & ad blocker**](https://chrome.google.com/webstore/detail/free-vpn-proxy-and-ad-blo/hipncndjamdcmphkgngojegjblibadbe?) | Fast, secure, and unlimited VPN Proxy service for Chrome with 100% free servers, bulletproof encryption, and anonymous access to blocked websites and resources. |
 | 5 | [**Hotspot Shield**](https://chrome.google.com/webstore/detail/hotspot-shield/nlbejmccbhkncgokjcmghpfloaajcffj) | Hotspot Shield VPN Proxy provides a secure proxy connection through an encrypted channel between your device and the target website, using VPN technology. |
 | 6 | [**Astar VPN - Free and fast VPN for everyone**](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh) | Encrypt your connection, access our secure proxy servers & unblock websites easily. |
@@ -95,3 +99,16 @@ Enjoy :)
 | 5 | [**Mark tab manager**](https://chrome.google.com/webstore/detail/mark-tab-manager/filgplhfalgafolkffphilkgckdgnona/) | Mark is a minimalist tab manager that organizes tabs as you browse. With Mark, tabs are automatically grouped by domain and sorted alphabetically so you can easily find them later. |
 | 6 | [**Pondr: Tab Manager & Bookmark Reminder**](https://chrome.google.com/webstore/detail/pondr-tab-manager-bookmar/dmldofeoomonpalhgkbnfckliaeghjag) | This Chrome Extension manages bookmarks and suggests you the best time to revisit them. |
 | 7 | [**TabHub: Next-generation Tab Manager**](https://chrome.google.com/webstore/detail/tabhub-next-generation-ta/lmofhhaibahhojhinmpgmifdmennlcjn) | A next-generation tab manager. Manage tabs on cloud, track browsing time efficiently and reduce browser memory usage. |
+
+## 🎨 Chrome Extensions Useful for Designers
+
+### 📂 Best Color Pickers and Palettes Chrome Extensions
+| No | Extension | Description  |
+| ------ | ------------------------------------------------------ |---------------------|
+| 1 | [**Smart Color Picker**](https://chrome.google.com/webstore/detail/smart-color-picker/ilifjbbjhbgkhgabebllmlcldfdgopfl?) | Smartest color picker tool for your browser. HEX, RGB, HSL colors, eyedropper tool, website palette. |
+| 2 | [**ColorPick Eyedropper**](https://chrome.google.com/webstore/detail/colorpick-eyedropper/gogbiohkminacikoppmljeolgccpmlop/) | |
+| 3 | [**Geco - Color Picker Tool**](https://chrome.google.com/webstore/detail/color-picker-tool-geco/eokjikchkppnkdipbiggnmlkahcdkikp) | Grab colors from web pages, color picker, color history. Compared to Color picker, color pick, eyedropper, colorzilla this is better. An easy-to-use eyedropper tool that automatically copies the Hex Code of the desired color. |
+| 4 | [**Colour Contrast Checker**](https://chrome.google.com/webstore/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe) | Check the contrast between different color combinations against WCAG standards |
+| 5 | [**Chroma: Eyedropper & Color Picker Tool**](https://chrome.google.com/webstore/detail/chroma-eyedropper-color-p/pkgejkfioihnchalojepdkefnpejomgn) | Best Chrome extension for Eyedropper, color picker, and palette creator. Generate sharable palette pages, pick your colors from any pages, and many more. |
+| 6 | [**Palette creator**](https://chrome.google.com/webstore/detail/palette-creator/iofmialeiddolmdlkbheakaefefkjokp) | Creates a colour palette from any image. Just right-click on the image and select the “Palette creator” option. |
+| 7 | [**Amazing color picker**](https://chrome.google.com/webstore/detail/amazing-color-picker/hclbckmnpbnkcpemopdngipibdagmjei) | The Amazing Color Picker app helps you get HEX color from the page. |
