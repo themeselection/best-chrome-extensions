@@ -100,15 +100,34 @@ Enjoy :)
 | 6 | [**Pondr: Tab Manager & Bookmark Reminder**](https://chrome.google.com/webstore/detail/pondr-tab-manager-bookmar/dmldofeoomonpalhgkbnfckliaeghjag) | This Chrome Extension manages bookmarks and suggests you the best time to revisit them. |
 | 7 | [**TabHub: Next-generation Tab Manager**](https://chrome.google.com/webstore/detail/tabhub-next-generation-ta/lmofhhaibahhojhinmpgmifdmennlcjn) | A next-generation tab manager. Manage tabs on cloud, track browsing time efficiently and reduce browser memory usage. |
 
+### 🌍🔎 Web Scrapping (IG)
+| 1 | [**CSS Peeper**](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) | CSS Peeper is a tool for designers to view CSS styles, allowing them to focus on design by spending less time digging through code. |
+| 2 | [**Web Scraper - Free Web Scraping**](https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn) | Web data extraction tool with an easy point-and-click interface for modern web | 
+| 3 | [**Instant Data Scraper**](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) | Instant Data Scraper is an automated data extraction tool for any website. It uses AI to predict which data is most relevant on a HTML page and allows saving it to Excel or CSV file (XLS, XLSX, CSV). | 
+| 4 | [**Data Scraper - Easy Web Scraping**](https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden) | DataMiner is a data extraction tool that lets you scrape any HTML web page. You can extract tables and lists from any page and upload them to Google Sheets or Microsoft Excel. | 
+| 5 | [**Instant Data Scraper**](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) | Instant Data Scraper is an automated data extraction tool for any website. It uses AI to predict which data is most relevant on an HTML page and allows saving it to Excel or CSV file (XLS, XLSX, CSV). |
+| 6 | [**Lazada Data Scraper - Product, Sales**](https://chrome.google.com/webstore/detail/lazada-data-scraper-produ/npcnedfmaedfllbdeclhichngngdiabj) | Lazada data scraper - Easy data extraction tools of product, price, sales rank, review |
+| 7 | [**Tapicker - Powerful Web Data Scraper**](https://chrome.google.com/webstore/detail/tapicker-powerful-web-dat/baglkjackdnhdpjjcjpkhmemggiklhid) | A powerful web data scraper that supports extracting data from any website into Excel, CSV, or JSON files without writing any code. |
+| 8 | [**IM Data Scrapper Tool**](https://chrome.google.com/webstore/detail/im-data-scrapper-tool/obpmbnhmkopaoedpkjkhhiaignnpfngb) | The "IM Data Scraper Tool" is a powerful software application designed to extract and gather data from IndiaMart, one of India's largest online marketplaces for businesses. |
+
 ## 🎨 Chrome Extensions Useful for Designers
 
-### 📂 Best Color Pickers and Palettes Chrome Extensions
+### 🌈 Best Color Pickers and Palettes Chrome Extensions
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Smart Color Picker**](https://chrome.google.com/webstore/detail/smart-color-picker/ilifjbbjhbgkhgabebllmlcldfdgopfl?) | Smartest color picker tool for your browser. HEX, RGB, HSL colors, eyedropper tool, website palette. |
 | 2 | [**ColorPick Eyedropper**](https://chrome.google.com/webstore/detail/colorpick-eyedropper/gogbiohkminacikoppmljeolgccpmlop/) | |
-| 3 | [**Geco - Color Picker Tool**](https://chrome.google.com/webstore/detail/color-picker-tool-geco/eokjikchkppnkdipbiggnmlkahcdkikp) | Grab colors from web pages, color picker, color history. Compared to Color picker, color pick, eyedropper, colorzilla this is better. An easy-to-use eyedropper tool that automatically copies the Hex Code of the desired color. |
+| 3 | [**Geco - Color Picker Tool**](https://chrome.google.com/webstore/detail/color-picker-tool-geco/eokjikchkppnkdipbiggnmlkahcdkikp) | Grab colors from web pages, color picker, color history. Compared to Color Picker, Color Pick, eyedropper, and colorzilla this is better. An easy-to-use eyedropper tool that automatically copies the Hex Code of the desired color. |
 | 4 | [**Colour Contrast Checker**](https://chrome.google.com/webstore/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe) | Check the contrast between different color combinations against WCAG standards |
 | 5 | [**Chroma: Eyedropper & Color Picker Tool**](https://chrome.google.com/webstore/detail/chroma-eyedropper-color-p/pkgejkfioihnchalojepdkefnpejomgn) | Best Chrome extension for Eyedropper, color picker, and palette creator. Generate sharable palette pages, pick your colors from any pages, and many more. |
-| 6 | [**Palette creator**](https://chrome.google.com/webstore/detail/palette-creator/iofmialeiddolmdlkbheakaefefkjokp) | Creates a colour palette from any image. Just right-click on the image and select the “Palette creator” option. |
+| 6 | [**Palette creator**](https://chrome.google.com/webstore/detail/palette-creator/iofmialeiddolmdlkbheakaefefkjokp) | Creates a colour palette from any image. Just right-click on the image and select the “Palette Creator” option. |
 | 7 | [**Amazing color picker**](https://chrome.google.com/webstore/detail/amazing-color-picker/hclbckmnpbnkcpemopdngipibdagmjei) | The Amazing Color Picker app helps you get HEX color from the page. |
+| 8 | **[ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)** | ColorZilla is the most user-friendly, full-featured, secure and reliable color picker and color related suite of tools. | 
+
+### 🆎 Typography Tools
+| No | Extension | Description  | Download |
+| ------ | ------------------------------------------------------ |---------------------|----------------------------------------------|
+| 1 | [**Fonts Ninja**](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) | Identify fonts from any website, bookmark, try, and buy them. |
+| 2 | [**What Font**](https://chrome.google.com/webstore/detail/what-font-find-font/acpcapnaopbhbelhmbbmppghilclpkep/) | Lets you know what font is used on any website |
+| 3 | [**What Font - font finder**](https://chrome.google.com/webstore/detail/what-font-font-finder/opogloaldjiplhogobhmghlgnlciebin) | Identify the font on a web page, html font size, color, and font family. This extension has a simple and intuitive interface for a more pleasant experience. |
+
