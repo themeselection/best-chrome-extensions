@@ -196,4 +196,17 @@ Enjoy :)
 | 4 | [**GMPlus - Open AI ChatGPT for Email**](https://chromewebstore.google.com/detail/gmplus-open-ai-chatgpt-fo/abekedpmkgndeflcidpkkddapnjnocjp) | An AI-powered email assistant for email using ChatGPT. |
 | 5 | **[TextCortex: Personal AI Assistant & AI Writer](https://chromewebstore.google.com/detail/textcortex-personal-ai-as/hahkojdegblcccihngmgndhdfheheofe)** | An AI companion that is designed to understand you and your writing needs. It actively presents options on how to make your content more authentic. |
 | 6 | [**Text Blaze: Templates and Snippets**](https://chromewebstore.google.com/detail/text-blaze-templates-and/idgadaccgipmpannjkmfddolnnhmeklj) | Create smart text expansions to get more done and streamline your work. Billions of keystrokes saved! |
-| 7 | [**ProKeys**](https://chromewebstore.google.com/detail/prokeys/ekfnbpgmmeahnnlpjibofkobpdkifapn) | Save time and effort in emails, etc., with ProKeys! Define snippets, do math in the browser, auto complete braces, and much more. |
+| 7 | [**ProKeys**](https://chromewebstore.google.com/detail/prokeys/ekfnbpgmmeahnnlpjibofkobpdkifapn) | Save time and effort in emails, etc., with ProKeys! Define snippets, do math in the browser, auto-complete braces, and much more. |
+
+### ⬇ Image and Video Downloaders
+
+| No | Extension | Description |
+| ------ | ------------------------------------------------------ |---------------------|
+| 1 | [**Image Downloader - Imageye**](https://chrome.google.com/webstore/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm) | Find, browse, and download all the images present on a web page with this Image Downloader. |
+| 2 | [**Image Downloader**](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) | Browse and download images from the web. |
+| 3 | [**Image Finder - Image Downloader**](https://chrome.google.com/webstore/detail/image-downloader-image-fi/jfafkhnopckjfmnpekbmpmghhdlijaja) | Find images on web pages, sort them by resolution or format, and download one image or bulk download multiple. |
+| 4 | [**INLoad - App Client for Instagram**](https://chrome.google.com/webstore/detail/inload-app-client-for-ins/ikcgnmhndofpnljaijlpjjbbpiamehan?) | Download photos, videos, stories, and Reels from Instagram. Schedule posts and save IGTV. |
+| 5 | [**Video Downloader**](https://chrome.google.com/webstore/detail/video-downloader/lpcbiamenoghegpghidohnfegcepamdm?) | Best video downloader extension, can download videos and music safely in one click. |
+| 6 | [**Video Downloader Professional - MPMux**](https://chrome.google.com/webstore/detail/video-downloader-professi/iikjcbakondakcbblkccdmiaiklnddke) | Professional video downloader that can save or record online videos in various formats like HLS, m3u8, mp4, etc. |
+| 7 | [**Utaku Downloader**](https://chrome.google.com/webstore/detail/utaku-image-downloader-%EC%9D%B4%EB%AF%B8/gdkbclbkmeggbekkkddcfjbcaapojihk?) | Free image and video downloader that extracts original images and videos within the page with custom settings. |
+| 8 | [**Image Downloader - Save Pictures**](https://chrome.google.com/webstore/detail/image-downloader-save-pic/lljfdfgehokbedlmjobjijdimlpajchg) | Find, choose, and download images from any web pages or bulk download all images at once. |
