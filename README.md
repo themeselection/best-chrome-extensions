@@ -10,6 +10,8 @@ Whether you're seeking powerful code editors, creative design utilities, writing
 
 Explore, install, and elevate your Chrome browser to new heights!🚀🤩
 
+Don't forget to show your appreciation by giving this repository a ⭐!
+
 Enjoy :)
 
 
