@@ -210,3 +210,16 @@ Enjoy :)
 | 6 | [**Video Downloader Professional - MPMux**](https://chrome.google.com/webstore/detail/video-downloader-professi/iikjcbakondakcbblkccdmiaiklnddke) | Professional video downloader that can save or record online videos in various formats like HLS, m3u8, mp4, etc. |
 | 7 | [**Utaku Downloader**](https://chrome.google.com/webstore/detail/utaku-image-downloader-%EC%9D%B4%EB%AF%B8/gdkbclbkmeggbekkkddcfjbcaapojihk?) | Free image and video downloader that extracts original images and videos within the page with custom settings. |
 | 8 | [**Image Downloader - Save Pictures**](https://chrome.google.com/webstore/detail/image-downloader-save-pic/lljfdfgehokbedlmjobjijdimlpajchg) | Find, choose, and download images from any web pages or bulk download all images at once. |
+
+### 🚫 Ad-Blockers
+| No | Extension | Description |
+| ------ | ------------------------------------------------------ |---------------------|
+| 1 | [**AdGuard AdBlocker**](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) | Effectively blocks all types of ads on all web pages, including Facebook, YouTube, and more. |
+| 2 | [**AdLock: Adblocker & Privacy Protection**](https://chrome.google.com/webstore/detail/adlock-adblocker-privacy/aemffjkmgcepimloclpkecifcnipnodh?hl=en) | Blocks ads on favorite websites, including video and audio ads on platforms like YouTube, Crunchyroll, Spotify, SoundCloud, etc. |
+| 3 | [**AdBlocker Ultimate**](https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=en) | Free extension that blocks text, banner ads, Facebook ads, and malicious domains known to spread malware. |
+| 4 | [**AdBlock Plus**](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en) | Open-source ad blocker that blocks banners, video, and pop-up advertisements. |
+| 5 | [**AdBlocker Stands**](https://chrome.google.com/webstore/detail/adblocker-stands/lgblnfidahcdcjddiepkckcfdhpknnjh?hl=en) | Removes banners, pop-ups, and more, enhancing your browsing experience and ensuring safety from threats and tracking. |
+| 6 | [**uBlock Origin**](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) | Efficient open-source blocker for Chromium and Firefox. Fast and lightweight. |
+| 7 | [**SponsorBlock for YouTube**](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en) | Open-source crowdsourced browser extension and API for skipping sponsor segments in YouTube videos. |
+| 8 | [**AdBlock — Best Ad Blocker**](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?hl=en) | User-supported open-source Chrome browser extension that allows ad-free web surfing. |
+| 9 | [**Ghostery – Privacy Ad Blocker**](https://chromewebstore.google.com/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij) | An Powerful privacy Chrome extension. Block ads, stop trackers, and speed up websites. | 
