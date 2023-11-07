@@ -42,7 +42,7 @@ Enjoy :)
   - [**🚫 Ad-Blockers**](https://github.com/themeselection/best-chrome-extensions/tree/main#-ad-blockers)
   - [**🤖 AI Copilots and Productivity Tools**](https://github.com/themeselection/best-chrome-extensions/tree/main#-ai-copilots-and-productivity-tools)
   - [**📊 SEO and Web Analysis Tools**](https://github.com/themeselection/best-chrome-extensions/tree/main#-seo-and-web-analysis-tools)
-
+                                                                                                                                      [Top ^](https://github.com/themeselection/best-chrome-extensions/tree/main#table-of-contents)
 ---
 
 ## Best Chrome Extensions Useful for Developers
