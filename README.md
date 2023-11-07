@@ -1,6 +1,6 @@
 # Best Chrome Extensions
 
-Welcome to the Curated List of Awesome Chrome Extensions Repository!
+Welcome to the Curated List of Best Awesome Chrome Extensions Repository!
 
 Discover our curated list of the finest Chrome extensions tailored for developers and designers. 
 
@@ -8,7 +8,7 @@ Organized into specialized categories, this repository curates top-notch tools t
 
 Whether you're seeking powerful code editors, creative design utilities, writing aids, or robust security solutions, you'll find them all here. 
 
-Explore, install, and elevate your Chrome browser to new heights!🚀🤩
+Explore, install, and elevate your Chrome-based browser to new heights!🚀🤩
 
 Don't forget to show your appreciation by giving this repository a ⭐!
 
