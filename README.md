@@ -197,6 +197,9 @@ Enjoy :)
 | 5 | **[TextCortex: Personal AI Assistant & AI Writer](https://chromewebstore.google.com/detail/textcortex-personal-ai-as/hahkojdegblcccihngmgndhdfheheofe)** | An AI companion that is designed to understand you and your writing needs. It actively presents options on how to make your content more authentic. |
 | 6 | [**Text Blaze: Templates and Snippets**](https://chromewebstore.google.com/detail/text-blaze-templates-and/idgadaccgipmpannjkmfddolnnhmeklj) | Create smart text expansions to get more done and streamline your work. Billions of keystrokes saved! |
 | 7 | [**ProKeys**](https://chromewebstore.google.com/detail/prokeys/ekfnbpgmmeahnnlpjibofkobpdkifapn) | Save time and effort in emails, etc., with ProKeys! Define snippets, do math in the browser, auto-complete braces, and much more. |
+| 8 | [**Compose AI: AI-powered Writing Tool**](https://chrome.google.com/webstore/detail/compose-ai-ai-powered-wri/ddlbpiadoechcolndfeaonajmngmhblj) | Generate any text using AI. Autocomplete your sentences where you type. With Compose AI, you can write emails, create documents, and chat faster.| 
+| 9 | [**HyperWrite - AI Assistant**](https://chrome.google.com/webstore/detail/hyperwrite-ai-assistant/kljjoeapehcmaphfcjkmbhkinoaopdnd) | An AI-powered assistant for web browsing, content creation, online research, task automation, and more – all in one extension. |
+| 10 | [**AISEO - AI Writing Companion.**](https://chrome.google.com/webstore/detail/aiseo-ai-writing-companio/hkfhclakgkhajfogkehjopahbphofpbn) | Paraphrase your content quickly and easily, and create unique, engaging content with just a few clicks using this Best Chrome extension | 
 
 ### ⬇ Image and Video Downloaders
 
@@ -223,3 +226,15 @@ Enjoy :)
 | 7 | [**SponsorBlock for YouTube**](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en) | Open-source crowdsourced browser extension and API for skipping sponsor segments in YouTube videos. |
 | 8 | [**AdBlock — Best Ad Blocker**](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?hl=en) | User-supported open-source Chrome browser extension that allows ad-free web surfing. |
 | 9 | [**Ghostery – Privacy Ad Blocker**](https://chromewebstore.google.com/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij) | An Powerful privacy Chrome extension. Block ads, stop trackers, and speed up websites. | 
+
+### 🤖 AI Copilots and Productivity Tools
+
+| No | Extension | Description |
+| ------ | ------------------------------------------------------ |---------------------|
+| 1 | [**LINER: ChatGPT AI Copilot for Web&YouTube&PDF**](https://chromewebstore.google.com/detail/liner-chatgpt-ai-copilot/bmhcbmnbenmcecpmpepghooflbehcack?hl=en) | Use ChatGPT directly on websites, including YouTube. Add AI Copilot to enhance productivity with your personal AI assistant. |
+| 2 | [**Monica - Your AI Copilot powered by GPT-4**](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb) | AI Copilot powered by GPT-4. Answers complex questions, writes emails, reads articles, and searches smartly. Usable everywhere. |
+| 3 | [**MaxAI.me: Use ChatGPT AI Anywhere Online**](https://chromewebstore.google.com/detail/maxaime-use-chatgpt-ai-an/mhnlakgilnojmhinhkckjpncpbhabphi?hl=en) | Fastest way to use ChatGPT, Claude, Bard, Bing anywhere online. The only generative AI-powered extension you need. |
+| 4 | [**SciSpace: Do hours of research in minutes**](https://chrome.google.com/webstore/detail/scispace-do-hours-of-rese/cipccbpjpemcnijhjcdjmkjhmhniiick?hl=en) | SciSpace provides research-backed explanations or summaries for text, maths, and tables in research papers, technical blog posts, or reports. |
+| 5 | [**SearchGPT for Chrome**](https://chrome.google.com/webstore/detail/searchgpt-for-chrome/ninecedhhpccjifamhafbdelibdjibgd?hl=en) | Display ChatGPT AI responses within search engines like Google and Bing. Enhance your browsing experience with AI-generated responses. |
+| 6 | [**Merlin: 1-click access to Powerful AI Plugins**](https://chrome.google.com/webstore/detail/merlin-1-click-access-to/camppjleccjaphfdbohjdohecfnoikec?hl=en) | Merlin AI helps you summarize videos, scrape websites, respond to emails, and grow your social media presence with powerful AI plugins. |
+
