@@ -14,6 +14,36 @@ Don't forget to show your appreciation by giving this repository a ⭐!
 
 Enjoy :)
 
+---
+
+## Table of Contents
+
+- 👨🏻‍💻 [Best Chrome Extensions Useful for Developers](https://github.com/themeselection/best-chrome-extensions/tree/main#best-chrome-extensions-useful-for-developers)
+  - 🧪 [Code Editors and IDEs](https://github.com/themeselection/best-chrome-extensions/tree/main#-code-editors-and-ides)
+  - 🖌️ [Debugging and Testing](https://github.com/themeselection/best-chrome-extensions/tree/main#%EF%B8%8F-css-tools)
+  - 🗂️ [CSS Tools](https://github.com/themeselection/best-chrome-extensions/tree/main#%EF%B8%8F-version-control)
+  - 📈 [Version Control](https://github.com/themeselection/best-chrome-extensions/tree/main#-workflow)
+  - 🛡️ [Workflow](https://github.com/themeselection/best-chrome-extensions/tree/main#%EF%B8%8F-password-manager--security)
+  - 📚 [Automation and Productivity Tools](https://github.com/themeselection/best-chrome-extensions/tree/main#automation-and-productivity-tools)
+  - 🌐🔒 [Virtual Private Network (VPN) Extensions](https://github.com/themeselection/best-chrome-extensions/tree/main#-virtual-private-network-vpn-extensions)
+  - 🌍🔎 [Web Scraping](https://github.com/themeselection/best-chrome-extensions/tree/main#-web-scrapping)
+
+## 🎨 Chrome Extensions Useful for Designers
+
+- 🌈 [Best Color Pickers and Palettes Chrome Extensions](https://github.com/themeselection/best-chrome-extensions/tree/main#-best-color-pickers-and-palettes-chrome-extensions)
+- 🆎 [Typography Tools](https://github.com/themeselection/best-chrome-extensions/tree/main#-typography-tools)
+
+## All-time Best Chrome Extensions
+
+- 📂 [Tab Management](https://github.com/themeselection/best-chrome-extensions/tree/main#-tab-management)
+- 🎥 [Screen Capture and Recording](https://github.com/themeselection/best-chrome-extensions/tree/main#-screen-capture-and-recording)
+- 🖋️ [Text Generator](https://github.com/themeselection/best-chrome-extensions/tree/main#%EF%B8%8F-text-generator)
+- ✏ [Writing and Grammar](https://github.com/themeselection/best-chrome-extensions/tree/main#-writing-and-grammar)
+- ⬇ [Image and Video Downloaders](https://github.com/themeselection/best-chrome-extensions/tree/main#-image-and-video-downloaders)
+- 🚫 [Ad-Blockers](https://github.com/themeselection/best-chrome-extensions/tree/main#-ad-blockers)
+- 🤖 [AI Copilots and Productivity Tools](https://github.com/themeselection/best-chrome-extensions/tree/main#-ai-copilots-and-productivity-tools)
+
+---
 
 ## Best Chrome Extensions Useful for Developers
 
