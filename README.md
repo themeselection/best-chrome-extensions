@@ -14,34 +14,34 @@ Don't forget to show your appreciation by giving this repository a ⭐!
 
 Enjoy :)
 
----
+--- 
 
 ## Table of Contents
 
-- 👨🏻‍💻 [Best Chrome Extensions Useful for Developers](https://github.com/themeselection/best-chrome-extensions/tree/main#best-chrome-extensions-useful-for-developers)
-  - 🧪 [Code Editors and IDEs](https://github.com/themeselection/best-chrome-extensions/tree/main#-code-editors-and-ides)
-  - 🖌️ [Debugging and Testing](https://github.com/themeselection/best-chrome-extensions/tree/main#%EF%B8%8F-css-tools)
-  - 🗂️ [CSS Tools](https://github.com/themeselection/best-chrome-extensions/tree/main#%EF%B8%8F-version-control)
-  - 📈 [Version Control](https://github.com/themeselection/best-chrome-extensions/tree/main#-workflow)
-  - 🛡️ [Workflow](https://github.com/themeselection/best-chrome-extensions/tree/main#%EF%B8%8F-password-manager--security)
-  - 📚 [Automation and Productivity Tools](https://github.com/themeselection/best-chrome-extensions/tree/main#automation-and-productivity-tools)
-  - 🌐🔒 [Virtual Private Network (VPN) Extensions](https://github.com/themeselection/best-chrome-extensions/tree/main#-virtual-private-network-vpn-extensions)
-  - 🌍🔎 [Web Scraping](https://github.com/themeselection/best-chrome-extensions/tree/main#-web-scrapping)
-
-## 🎨 Chrome Extensions Useful for Designers
-
-- 🌈 [Best Color Pickers and Palettes Chrome Extensions](https://github.com/themeselection/best-chrome-extensions/tree/main#-best-color-pickers-and-palettes-chrome-extensions)
-- 🆎 [Typography Tools](https://github.com/themeselection/best-chrome-extensions/tree/main#-typography-tools)
-
-## All-time Best Chrome Extensions
-
-- 📂 [Tab Management](https://github.com/themeselection/best-chrome-extensions/tree/main#-tab-management)
-- 🎥 [Screen Capture and Recording](https://github.com/themeselection/best-chrome-extensions/tree/main#-screen-capture-and-recording)
-- 🖋️ [Text Generator](https://github.com/themeselection/best-chrome-extensions/tree/main#%EF%B8%8F-text-generator)
-- ✏ [Writing and Grammar](https://github.com/themeselection/best-chrome-extensions/tree/main#-writing-and-grammar)
-- ⬇ [Image and Video Downloaders](https://github.com/themeselection/best-chrome-extensions/tree/main#-image-and-video-downloaders)
-- 🚫 [Ad-Blockers](https://github.com/themeselection/best-chrome-extensions/tree/main#-ad-blockers)
-- 🤖 [AI Copilots and Productivity Tools](https://github.com/themeselection/best-chrome-extensions/tree/main#-ai-copilots-and-productivity-tools)
+- [**Best Chrome Extensions**](https://github.com/themeselection/best-chrome-extensions/tree/main#best-chrome-extensions)
+  - [**Best Chrome Extensions Useful for Developers**](https://github.com/themeselection/best-chrome-extensions/tree/main#best-chrome-extensions-useful-for-developers)
+  - [**👨🏻‍💻Code Editors and IDEs**](https://github.com/themeselection/best-chrome-extensions/tree/main#-code-editors-and-ides)
+  - [**🧪 Debugging and Testing**](https://github.com/themeselection/best-chrome-extensions/tree/main#-debugging-and-testing)
+  - [**🖌️ CSS Tools**](https://github.com/themeselection/best-chrome-extensions/tree/main#%EF%B8%8F-css-tools)
+  - [**🗂️ Version Control**](https://github.com/themeselection/best-chrome-extensions/tree/main#%EF%B8%8F-version-control)
+  - [**📈 Workflow**](https://github.com/themeselection/best-chrome-extensions/tree/main#-workflow)
+  - [**🛡️ Password Manager & Security**](https://github.com/themeselection/best-chrome-extensions/tree/main#%EF%B8%8F-password-manager--security)
+  - [**📚 Frameworks and Libraries**](https://github.com/themeselection/best-chrome-extensions/tree/main#-frameworks-and-libraries)
+  - [**🚀 Automation and Productivity Tools**](https://github.com/themeselection/best-chrome-extensions/tree/main#automation-and-productivity-tools)
+  - [**🌐🔒 Virtual Private Network (VPN) Extensions**](https://github.com/themeselection/best-chrome-extensions/tree/main#-virtual-private-network-vpn-extensions)
+  - [**🌍🔎 Web Scrapping**](https://github.com/themeselection/best-chrome-extensions/tree/main#-web-scrapping)
+- [**🎨 Chrome Extensions Useful for Designers**](https://github.com/themeselection/best-chrome-extensions/tree/main#-chrome-extensions-useful-for-designers-1)
+  - [**🌈 Best Color Pickers and Palettes Chrome Extensions**](https://github.com/themeselection/best-chrome-extensions/tree/main#-best-color-pickers-and-palettes-chrome-extensions)
+  - [**🆎 Typography Tools**](https://github.com/themeselection/best-chrome-extensions/tree/main#-typography-tools)
+- [**All-time Best Chrome Extensions**](https://github.com/themeselection/best-chrome-extensions/tree/main#all-time-best-chrome-extensions-1)
+  - [**📂 Tab Management**](https://github.com/themeselection/best-chrome-extensions/tree/main#-tab-management)
+  - [**🎥 Screen Capture and Recording**](https://github.com/themeselection/best-chrome-extensions/tree/main#-screen-capture-and-recording)
+  - [**🖋️ Text Generator**](https://github.com/themeselection/best-chrome-extensions/tree/main#%EF%B8%8F-text-generator)
+  - [**✏ Writing and Grammar**](https://github.com/themeselection/best-chrome-extensions/tree/main#-writing-and-grammar)
+  - [**⬇ Image and Video Downloaders**](https://github.com/themeselection/best-chrome-extensions/tree/main#-image-and-video-downloaders)
+  - [**🚫 Ad-Blockers**](https://github.com/themeselection/best-chrome-extensions/tree/main#-ad-blockers)
+  - [**🤖 AI Copilots and Productivity Tools**](https://github.com/themeselection/best-chrome-extensions/tree/main#-ai-copilots-and-productivity-tools)
+  - [**📊 SEO and Web Analysis Tools**](https://github.com/themeselection/best-chrome-extensions/tree/main#-seo-and-web-analysis-tools)
 
 ---
 
@@ -124,7 +124,7 @@ Enjoy :)
 | 1 | [**React Developer Tools**](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | React Developer Tools is a Chrome DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies in the Chrome Developer Tools. |
 | 2 | [**Redux DevTools**](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) | The extension provides power-ups for your Redux development workflow. Apart from Redux, it can be used with any other architectures which handle the state. |
 
-### Automation and Productivity Tools
+### 🚀 Automation and Productivity Tools
 ---
 
 | No | Extension | Description |
