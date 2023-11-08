@@ -1,5 +1,10 @@
 # Best Chrome Extensions
 
+<p align="center">
+  <img src="https://github.com/themeselection/best-chrome-extensions/assets/105908323/17f5c7c8-7e19-4f2c-b311-2aad17f75b3e" alt="GitHub repository showcasing 'Best Chrome Extensions' for Developers, Designers, and SEO professionals. The image displays a curated list of extensions organized into multiple categories for enhanced productivity and workflow optimization" style="max-width: 100%;">
+</p>
+
+
 Welcome to the Curated List of Best Awesome Chrome Extensions Repository!
 
 Discover our curated list of the finest Chrome extensions tailored for developers and designers. 
@@ -13,11 +18,6 @@ Explore, install, and elevate your Chrome-based browser to new heights!🚀🤩
 Don't forget to show your appreciation by giving this repository a ⭐!
 
 Enjoy :)
-
-<p align="center">
-  <img src="https://github.com/themeselection/best-chrome-extensions/assets/105908323/17f5c7c8-7e19-4f2c-b311-2aad17f75b3e" alt="GitHub repository showcasing 'Best Chrome Extensions' for Developers, Designers, and SEO professionals. The image displays a curated list of extensions organized into multiple categories for enhanced productivity and workflow optimization" style="max-width: 100%;">
-</p>
-
 
 --- 
 
