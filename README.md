@@ -1,7 +1,8 @@
 # Best Chrome Extensions
 
+
 <p align="center">
-  <img src="https://github.com/themeselection/best-chrome-extensions/assets/105908323/17f5c7c8-7e19-4f2c-b311-2aad17f75b3e" alt="GitHub repository showcasing 'Best Chrome Extensions' for Developers, Designers, and SEO professionals. The image displays a curated list of extensions organized into multiple categories for enhanced productivity and workflow optimization" style="max-width: 100%;">
+  <img src="https://github.com/themeselection/best-chrome-extensions/assets/105908323/5952cc1c-0bb3-401e-82c5-0a4b2345ccfa" alt="GitHub repository showcasing 'Best Chrome Extensions' for Developers, Designers, and SEO professionals. The image displays a curated list of extensions organized into multiple categories for enhanced productivity and workflow optimization" style="max-width: 100%;">
 </p>
 
 
