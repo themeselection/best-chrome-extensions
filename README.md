@@ -65,7 +65,7 @@ Enjoy :)
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/tree/main#table-of-contents)
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/#table-of-contents)
 
 </div>
 
@@ -87,7 +87,7 @@ Enjoy :)
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/tree/main#table-of-contents)
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/#table-of-contents)
 
 </div>
 
@@ -111,7 +111,7 @@ Enjoy :)
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/tree/main#table-of-contents)
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/#table-of-contents)
 
 </div>
 
@@ -139,7 +139,7 @@ Enjoy :)
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/tree/main#table-of-contents)
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/#table-of-contents)
 
 </div>
 
@@ -172,7 +172,7 @@ Enjoy :)
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/tree/main#table-of-contents)
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/#table-of-contents)
 
 </div>
 
@@ -192,7 +192,7 @@ Enjoy :)
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/tree/main#table-of-contents)
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/#table-of-contents)
 
 </div>
 
@@ -214,7 +214,7 @@ Enjoy :)
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/tree/main#table-of-contents)
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/#table-of-contents)
 
 </div>
 
@@ -244,7 +244,7 @@ Enjoy :)
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/tree/main#table-of-contents)
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/#table-of-contents)
 
 </div>
 
@@ -263,7 +263,7 @@ Enjoy :)
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/tree/main#table-of-contents)
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/#table-of-contents)
 
 </div>
 
@@ -291,7 +291,7 @@ Enjoy :)
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/tree/main#table-of-contents)
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/#table-of-contents)
 
 </div>
 
@@ -310,7 +310,7 @@ Enjoy :)
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/tree/main#table-of-contents)
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/#table-of-contents)
 
 </div>
 
@@ -329,7 +329,7 @@ Enjoy :)
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/tree/main#table-of-contents)
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/#table-of-contents)
 
 </div>
 
@@ -352,7 +352,7 @@ Enjoy :)
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/tree/main#table-of-contents)
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/#table-of-contents)
 
 </div>
 
@@ -375,6 +375,6 @@ Enjoy :)
 
 <div align="right">
 
-[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/tree/main#table-of-contents)
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions/#table-of-contents)
 
 </div>
