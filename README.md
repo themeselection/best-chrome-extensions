@@ -373,6 +373,9 @@ Enjoy :)
 | 11 | [**SEOquake**](https://chromewebstore.google.com/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc) | SEOquake is a free plugin that provides you with key SEO metrics, along with other useful tools such as SEO Audit and many others. |
 | 12 | [**Hunter - Email Finder Extension**](https://chromewebstore.google.com/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj?hl=en) | Find email addresses from anywhere on the web, with just one click. |
 | 13 | [**Check My Links**](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en) | Check My Links is a link checker that crawls through your webpage and looks for broken links. | 
+| 14 | [**Pindodo - Pinterest SEO Keyword Tool**](https://chromewebstore.google.com/detail/pindodo-pinterest-ranking/mkpmadpjiphhpondccmkndccfjknbjdi) | Boost Your Pinterest Growth with the Ultimate Pinterest SEO Tool! Pindodo has the best tools to help you gain more visibility/traffic on Pinterest. |
+
+
 
 <div align="right">
 
