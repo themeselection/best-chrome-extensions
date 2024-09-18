@@ -229,6 +229,7 @@ Enjoy :)
 | 1 | [**Fonts Ninja**](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) | Identify fonts from any website, bookmark, try, and buy them. |
 | 2 | [**What Font**](https://chrome.google.com/webstore/detail/what-font-find-font/acpcapnaopbhbelhmbbmppghilclpkep/) | Lets you know what font is used on any website |
 | 3 | [**What Font - font finder**](https://chrome.google.com/webstore/detail/what-font-font-finder/opogloaldjiplhogobhmghlgnlciebin) | Identify the font on a web page, html font size, color, and font family. This extension has a simple and intuitive interface for a more pleasant experience. |
+| 4 | [**Font Tester**](https://chromewebstore.google.com/detail/font-tester/deachoodakeofjlfikfkohihnpcgiaim) | Test and preview 1000+ google fonts on any webpage and copy the code directly from the widget |
 
 ## All-time Best Chrome Extensions
 
