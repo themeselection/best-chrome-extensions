@@ -17,3 +17,5 @@ Thank you for considering contributing to our project! To maintain consistency a
 - **Categorization** - Add the extension to the appropriate category mentioned. If you have a separate category, ensure you have its alternative ready for inclusion in the list.
 - **Spelling and Grammar** - Double-check your spelling and grammar before submitting your contribution. Clear and accurate descriptions enhance user understanding.
 - **Whitespace Cleanup:** - Remove any trailing whitespace in your contributions to maintain a clean and consistent codebase.
+
+### Note: To support this repository, please give us a star and share and promote it to increase its visibility. Let's make it a win-win 😉
