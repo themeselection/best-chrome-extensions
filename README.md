@@ -353,6 +353,7 @@ Enjoy :)
 | 10 | [**Mano - Your AI Copilot powered by GPT-4**](https://chrome.google.com/webstore/detail/mano-your-ai-copilot-powe/icgjkfebljaiiccoeeihocdmjnojmeal?hl=en) | Mano brings powerful AI tools directly into any site, powered by OpenAI's GPT-4. |
 | 11 | [**ChatGPT for Amazon with GPT4 Shulex Copilot**](https://chrome.google.com/webstore/detail/chatgpt-for-amazon-with-g/fchbhcjlkcdchcaklpkdofllfoimelgb?hl=en) | Copilot for ecommerce & sellers. Browser sidebar, Review Analysis, AI assistant capable of handling various tasks for Amazon sellers. |
 | 12 | [**ChatsNow：ChatGPT, Claude SideBar(GPT- 4,Draw)**](https://chrome.google.com/webstore/detail/chatsnow%EF%BC%9Achatgpt-claude-s/hcmiiaachajoiijecmakkhlcpagafklj?hl=en) | AI assistant utilizing OpenAI's GPT-4, GPT-3.5, and GPT-4 models. Offers writing assistance, AI-generated drawings, enhanced search engines, and answers to various questions. |
+| 13 | [**ChatGPT Widescreen Mode**](https://chromewebstore.google.com/detail/chatgpt-widescreen-mode/jgnjpnmofkalfliddjelaciggjgnphgm)| Adds Widescreen + Fullscreen modes to [chatgpt.com](https://chatgpt.com) + [perplexity.ai](https://perplexity.ai) + [poe.com](https://poe.com) to enhance viewing and reduce scrolling.  |
 
 <div align="right">
 
