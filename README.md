@@ -160,7 +160,7 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
-| 3 | [**SummaryTube**](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe) | Summarize Youtube videos for free using powerful AI models with [SummaryTube](https://summarytube.com) easily. Get key insights, key moments analysis, Q&A's from youtube videos. |
+| 3 | [**SummaryTube**](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe) | Summarize Youtube videos for free using powerful AI models with [SummaryTube](https://summarytube.com) chrome extension easily. Get key insights, key moments analysis, Q&A's, analyse top comments from youtube videos. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 ---
