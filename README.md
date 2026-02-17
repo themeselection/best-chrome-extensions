@@ -391,6 +391,19 @@ Enjoy :)
 
 </div>
 
+### 🎭 Fun & Entertainment
+---
+
+| No | Extension | Description |
+| ------ | ------------------------------------------------------ |---------------------|
+| 1 | [**Orange Cheeto**](https://www.cheetodon.com) | A free browser extension that replaces "Trump" with funny nicknames like "Mango Mussolini" and "Cheeto Benito" on every website. No tracking, no ads. |
+
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions#table-of-contents)
+
+</div>
+
 ---
 
 If you would like to make a valuable contribution to this list, we kindly ask you to take a moment to review our [Contributing Guidelines](https://github.com/themeselection/best-chrome-extensions/blob/main/CONTRIBUTING.md) . 
