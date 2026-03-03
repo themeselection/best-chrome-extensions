@@ -91,6 +91,8 @@ Enjoy :)
 | 12 | [**Postman Interceptor**](https://chromewebstore.google.com/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfibfoi) | Capture cookies and sessions directly from the browser and send them to Postman for API testing. |
 | 13 | [**Reqres**](https://chromewebstore.google.com/detail/reqres-Interceptor/gplmjcbiicfehdmnkdnlbdfaonhijgpn) | Capture network requests and replay them through Reqres for testing and debugging APIs. |
 | 14 | [**Lighthouse**](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | Google Lighthouse is an open-source tool for running web page audits including performance, accessibility, and SEO. |
+| 15 | [**JSON Viewer Pro**](https://chromewebstore.google.com/detail/json-viewer-pro/gbmdgpbipfallnflgajpaliibnhdgobh?utm_source=chrome-extension) | Advanced JSON viewer with syntax highlighting, tree view, and search. Supports large JSON files and custom themes. |
+| 16 | [**Cache Cleaner**](https://chromewebstore.google.com/detail/cache-cleaner/fngkpghhnjhphkholdpkwbjjlblnnmgm) | Quick and easy way to clear browser cache and cookies without navigating through browser settings. |
 
 <div align="right">
 
@@ -164,6 +166,8 @@ Enjoy :)
 | 3 | [**Vue.js devtools**](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) | Chrome extension for debugging Vue.js applications. Inspect component hierarchy, props, data, events, and more. |
 | 4 | [**Angular DevTools**](https://chromewebstore.google.com/detail/angular-devtools/ienfalfjmkddcmkmlgbfljenokindkpc) | Angular DevTools extends Chrome DevTools with debugging and profiling capabilities for Angular applications. |
 | 5 | [**Svelte DevTools**](https://chromewebstore.google.com/detail/svelte-devtools/ckolcbmkjmjmhdndipmiwjohanihbpofh) | Chrome extension for debugging Svelte applications. Inspect components, stores, and component hierarchy. |
+| 6 | [**Apollo GraphQL DevTools**](https://chromewebstore.google.com/detail/apollo-graphQL-devtools/aajcmlcmnepjpmkkmmbckoobnkkjjmlp) | GraphQL debugging tools for Apollo Client. Visualize your GraphQL queries and mutations in Chrome DevTools. |
+| 7 | [**GraphQL Network Inspector**](https://chromewebstore.google.com/detail/graphql-network-inspector/ennpeplcalhbgmhlhjnhjonbgecohjno) | GraphQL debugging tool to inspect all requests in the Network tab. View queries, mutations, and subscriptions. |
 
 ### 🚀 Automation and Productivity Tools
 ---
@@ -197,11 +201,11 @@ Enjoy :)
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**CSS Peeper**](https://chromewebstore.google.com/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) | CSS Peeper is a tool for designers to view CSS styles, allowing them to focus on design by spending less time digging through code. |
-| 2 | [**Web Scraper - Free Web Scraping**](https://chromewebstore.google.com/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn) | Web data extraction tool with an easy point-and-click interface for modern web | 
+| 2 | [**Web Scraper - Free Web Scraping**](https://chromewebstore.google.com/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn) | Web data extraction tool with an easy point-and-click interface for modern web scraping. Extract data from any website to CSV or JSON. | 
 | 3 | [**Instant Data Scraper**](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) | Instant Data Scraper is an automated data extraction tool for any website. It uses AI to predict which data is most relevant on a HTML page and allows saving it to Excel or CSV file (XLS, XLSX, CSV). | 
 | 4 | [**Data Scraper - Easy Web Scraping**](https://chromewebstore.google.com/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden) | DataMiner is a data extraction tool that lets you scrape any HTML web page. You can extract tables and lists from any page and upload them to Google Sheets or Microsoft Excel. | 
-| 6 | [**Lazada Data Scraper - Product, Sales**](https://chromewebstore.google.com/detail/lazada-data-scraper-produ/npcnedfmaedfllbdeclhichngngdiabj) | Lazada data scraper - Easy data extraction tools of product, price, sales rank, review |
-| 7 | [**Tapicker - Powerful Web Data Scraper**](https://chromewebstore.google.com/detail/tapicker-powerful-web-dat/baglkjackdnhdpjjcjpkhmemggiklhid) | A powerful web data scraper that supports extracting data from any website into Excel, CSV, or JSON files without writing any code. |
+| 5 | [**Lazada Data Scraper - Product, Sales**](https://chromewebstore.google.com/detail/lazada-data-scraper-produ/npcnedfmaedfllbdeclhichngngdiabj) | Lazada data scraper - Easy data extraction tools of product, price, sales rank, review |
+| 6 | [**Tapicker - Powerful Web Data Scraper**](https://chromewebstore.google.com/detail/tapicker-powerful-web-dat/baglkjackdnhdpjjcjpkhmemggiklhid) | A powerful web data scraper that supports extracting data from any website into Excel, CSV, or JSON files without writing any code. |
 | 8 | [**IM Data Scrapper Tool**](https://chromewebstore.google.com/detail/im-data-scrapper-tool/obpmbnhmkopaoedpkjkhhiaignnpfngb) | The "IM Data Scraper Tool" is a powerful software application designed to extract and gather data from IndiaMart, one of India's largest online marketplaces for businesses. |
 
 <div align="right">
@@ -266,6 +270,8 @@ Enjoy :)
 </div>
 
 ### 🎥 Screen Capture and Recording
+---
+
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | **[Nimbus Screenshot & Screen Video Recorder](https://chromewebstore.google.com/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)** | Make online screencasts of your desktop or selected browser tabs, or create videos using your webcam. | 
@@ -285,6 +291,8 @@ Enjoy :)
 </div>
 
 ### 🖋️ Text Generator 
+---
+
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 |[**Lorem Ipsum Generator**](https://chromewebstore.google.com/detail/lorem-ipsum-generator/pglahbfamjiifnafcicdibiiabpakkkb) | Quickly generate Lorem Ipsum placeholder text. Select a desired length and choose between paragraphs, words, bytes or lists. | 
