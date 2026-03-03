@@ -369,7 +369,7 @@ Enjoy :)
 | 4 | [**SciSpace: Do hours of research in minutes**](https://chromewebstore.google.com/detail/scispace-do-hours-of-rese/cipccbpjpemcnijhjcdjmkjhmhniiick?hl=en) | SciSpace provides research-backed explanations or summaries for text, maths, and tables in research papers, technical blog posts, or reports. |
 | 5 | [**SearchGPT for Chrome**](https://chromewebstore.google.com/detail/searchgpt-for-chrome/ninecedhhpccjifamhafbdelibdjibgd?hl=en) | Display ChatGPT AI responses within search engines like Google and Bing. Enhance your browsing experience with AI-generated responses. |
 | 6 | [**Merlin: 1-click access to Powerful AI Plugins**](https://chromewebstore.google.com/detail/merlin-1-click-access-to/camppjleccjaphfdbohjdohecfnoikec?hl=en) | Merlin AI helps you summarize videos, scrape websites, respond to emails, and grow your social media presence with powerful AI plugins. |
- 7 | [**Jarvis AI: Chat GPT, Bing, Claude, Bard, BOT**](https://chromewebstore.google.com/detail/jarvis-ai-chat-gpt-bing-c/kbhaffhbhcfmogkkbfanilniagcefnhi?hl=en) | Jarvis AI Copilot Chatbot powered by ChatGPT, OpenAI, Claude, and Midjourney. Offers English translation, chat chatting GPT, grammar checking, and rewriting capabilities. |
+| 7 | [**Jarvis AI: Chat GPT, Bing, Claude, Bard, BOT**](https://chromewebstore.google.com/detail/jarvis-ai-chat-gpt-bing-c/kbhaffhbhcfmogkkbfanilniagcefnhi?hl=en) | Jarvis AI Copilot Chatbot powered by ChatGPT, OpenAI, Claude, and Midjourney. Offers English translation, chat chatting GPT, grammar checking, and rewriting capabilities. |
 | 8 | [**ChatSider: Free ChatGPT Sidebar&AI Copilot**](https://chromewebstore.google.com/detail/chatsiderfree-chatgpt-sid/ecnknpjoomhilbhjipoipllgdgaldhll?hl=en) | Free ChatGPT sidebar and AI co-pilot powered by OpenAI. This AI co-pilot software is proficient in solving questions and inquiries. |
 | 9 | [**HARPA AI - Automation Agent with Claude & GPT**](https://chromewebstore.google.com/detail/harpa-ai-automation-agent/eanggfilgoajaocelnaflolkadkeghjp?hl=en) | HARPA is your private AI copilot for web browsing and automation. Integrates ChatGPT, GPT-3/GPT-4, ClaudeAI, web monitoring, and automation into any tab. |
 | 10 | [**Mano - Your AI Copilot powered by GPT-4**](https://chromewebstore.google.com/detail/mano-your-ai-copilot-powe/icgjkfebljaiiccoeeihocdmjnojmeal?hl=en) | Mano brings powerful AI tools directly into any site, powered by OpenAI's GPT-4. |
@@ -385,6 +385,8 @@ Enjoy :)
 </div>
 
 ### 📊 SEO and Web Analysis Tools
+---
+
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**SEO SERP Counter - Free SERP Checker tool**](https://chromewebstore.google.com/detail/seo-serp-counter-free-ser/bogkphfdgobbdiapedfgjmdibojjnppa) | Free SERP checker + counter tool to count the rankings. |
