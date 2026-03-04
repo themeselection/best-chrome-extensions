@@ -394,3 +394,28 @@ Enjoy :)
 ---
 
 If you would like to make a valuable contribution to this list, we kindly ask you to take a moment to review our [Contributing Guidelines](https://github.com/themeselection/best-chrome-extensions/blob/main/CONTRIBUTING.md) . 
+
+---
+
+## Built by Zovo
+
+This is part of the [Zovo](https://zovo.one) developer tools family. Zovo builds privacy-first Chrome extensions for developers.
+
+### Related Zovo Repositories
+
+- [zovo-extension-template](https://github.com/theluckystrike/zovo-extension-template) - Privacy-first Chrome extension template
+- [zovo-types-webext](https://github.com/theluckystrike/zovo-types-webext) - TypeScript definitions for browser extensions
+- [chrome-storage-plus](https://github.com/theluckystrike/chrome-storage-plus) - Type-safe storage wrapper
+
+### Zovo Chrome Extensions
+
+- [Zovo Tab Manager](https://chrome.google.com/webstore/detail/zovo-tab-manager) - Manage tabs efficiently
+- [Zovo Focus](https://chrome.google.com/webstore/detail/zovo-focus) - Block distractions
+- [Zovo Permissions Scanner](https://chrome.google.com/webstore/detail/zovo-permissions-scanner) - Check extension privacy grades
+- [Zovo Cookie Manager](https://chrome.google.com/webstore/detail/zovo-cookie-manager) - Advanced cookie management
+
+Visit [zovo.one](https://zovo.one) for more information.
+
+---
+
+*Built by [Zovo](https://zovo.one)*
