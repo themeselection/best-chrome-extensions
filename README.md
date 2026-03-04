@@ -409,10 +409,10 @@ This is part of the [Zovo](https://zovo.one) developer tools family. Zovo builds
 
 ### Zovo Chrome Extensions
 
-- [Zovo Tab Manager](https://chrome.google.com/webstore/detail/zovo-tab-manager) - Manage tabs efficiently
-- [Zovo Focus](https://chrome.google.com/webstore/detail/zovo-focus) - Block distractions
-- [Zovo Permissions Scanner](https://chrome.google.com/webstore/detail/zovo-permissions-scanner) - Check extension privacy grades
-- [Zovo Cookie Manager](https://chrome.google.com/webstore/detail/zovo-cookie-manager) - Advanced cookie management
+- [Zovo Tab Manager](https://chromewebstore.google.com/detail/zovo-tab-manager) - Manage tabs efficiently
+- [Zovo Focus](https://chromewebstore.google.com/detail/zovo-focus) - Block distractions
+- [Zovo Permissions Scanner](https://chromewebstore.google.com/detail/zovo-permissions-scanner) - Check extension privacy grades
+- [Zovo Cookie Manager](https://chromewebstore.google.com/detail/zovo-cookie-manager) - Advanced cookie management
 
 Visit [zovo.one](https://zovo.one) for more information.
 
