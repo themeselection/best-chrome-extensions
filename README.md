@@ -160,6 +160,7 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
+| 3 | [**LinkClean**](https://github.com/2gelbuy/linkclean) | Clean LinkedIn feed - hide promoted posts, suggested content, polls, and reshares. 20+ languages, privacy-first. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 ---
