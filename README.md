@@ -84,6 +84,7 @@ Enjoy :)
 | 7 | [**Bug Magnet**](https://chromewebstore.google.com/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) | Exploratory testing assistant for Chrome. |
 | 8 | [**Exploratory Testing Chrome Extension**](https://chromewebstore.google.com/detail/exploratory-testing-chrom/khigmghadjljgjpamimgjjmpmlbgmekj) | Chrome extension designed to make web exploratory testing easier. |
 | 9 | [**WAVE Evaluation Tool**](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) | Evaluate web accessibility within your browser. |
+| 10 | [**Accessibility Checker — ADA & WCAG Scanner**](https://chromewebstore.google.com/detail/accessibility-checker-ada-wcag-scanner/kpodpjenpjodkoihfjibmdaoppeicklk) | One-click WCAG 2.2 & ADA accessibility scan with compliance score, plain-English results, and element highlighting. Free, privacy-first. |
 | 10 | [**Yet Another REST Client**](https://chromewebstore.google.com/detail/yet-another-rest-client/ehafadccdcdedbhcbddihehiodgcddpl) | Easy-to-use REST Client to develop, test, and debug RESTful APIs. |
 | 11 | [**BugBug Automation Testing**](https://chromewebstore.google.com/detail/bugbug-automation-testing/oiedehaafceacbnnmindilfblafincjb) | A codeless test automation tool designed for SaaS teams to automate E2E testing of web apps and websites. |
 
