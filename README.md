@@ -8,11 +8,11 @@
 
 Welcome to the Curated List of Best Awesome Chrome Extensions Repository!
 
-Discover our curated list of the finest Chrome extensions tailored for developers and designers. 
+Discover our curated list of the finest Chrome extensions tailored for developers and designers.
 
-Organized into specialized categories, this repository curates top-notch tools to enhance your browsing experience and boost productivity. 
+Organized into specialized categories, this repository curates top-notch tools to enhance your browsing experience and boost productivity.
 
-Whether you're seeking powerful code editors, creative design utilities, writing aids, or robust security solutions, you'll find them all here. 
+Whether you're seeking powerful code editors, creative design utilities, writing aids, or robust security solutions, you'll find them all here.
 
 Explore, install, and elevate your Chrome-based browser to new heights!🚀🤩
 
@@ -20,7 +20,7 @@ Don't forget to show your appreciation by giving this repository a ⭐!
 
 Enjoy :)
 
---- 
+---
 
 ## Table of Contents
 
@@ -54,7 +54,7 @@ Enjoy :)
 
 
 ### 👨🏻‍💻 Code Editors and IDEs
---- 
+---
 
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
@@ -86,6 +86,7 @@ Enjoy :)
 | 9 | [**WAVE Evaluation Tool**](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) | Evaluate web accessibility within your browser. |
 | 10 | [**Yet Another REST Client**](https://chromewebstore.google.com/detail/yet-another-rest-client/ehafadccdcdedbhcbddihehiodgcddpl) | Easy-to-use REST Client to develop, test, and debug RESTful APIs. |
 | 11 | [**BugBug Automation Testing**](https://chromewebstore.google.com/detail/bugbug-automation-testing/oiedehaafceacbnnmindilfblafincjb) | A codeless test automation tool designed for SaaS teams to automate E2E testing of web apps and websites. |
+| 12 | [**OpenGraphs**](https://chromewebstore.google.com/detail/opengraphs/kiifpjdcadbbbhoocoobahkogpnmngio) | Open Graph debugger and social share previews, without leaving your site. |
 
 <div align="right">
 
@@ -185,9 +186,9 @@ Enjoy :)
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**CSS Peeper**](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) | CSS Peeper is a tool for designers to view CSS styles, allowing them to focus on design by spending less time digging through code. |
-| 2 | [**Web Scraper - Free Web Scraping**](https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn) | Web data extraction tool with an easy point-and-click interface for modern web | 
-| 3 | [**Instant Data Scraper**](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) | Instant Data Scraper is an automated data extraction tool for any website. It uses AI to predict which data is most relevant on a HTML page and allows saving it to Excel or CSV file (XLS, XLSX, CSV). | 
-| 4 | [**Data Scraper - Easy Web Scraping**](https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden) | DataMiner is a data extraction tool that lets you scrape any HTML web page. You can extract tables and lists from any page and upload them to Google Sheets or Microsoft Excel. | 
+| 2 | [**Web Scraper - Free Web Scraping**](https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn) | Web data extraction tool with an easy point-and-click interface for modern web |
+| 3 | [**Instant Data Scraper**](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) | Instant Data Scraper is an automated data extraction tool for any website. It uses AI to predict which data is most relevant on a HTML page and allows saving it to Excel or CSV file (XLS, XLSX, CSV). |
+| 4 | [**Data Scraper - Easy Web Scraping**](https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden) | DataMiner is a data extraction tool that lets you scrape any HTML web page. You can extract tables and lists from any page and upload them to Google Sheets or Microsoft Excel. |
 | 5 | [**Instant Data Scraper**](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) | Instant Data Scraper is an automated data extraction tool for any website. It uses AI to predict which data is most relevant on an HTML page and allows saving it to Excel or CSV file (XLS, XLSX, CSV). |
 | 6 | [**Lazada Data Scraper - Product, Sales**](https://chrome.google.com/webstore/detail/lazada-data-scraper-produ/npcnedfmaedfllbdeclhichngngdiabj) | Lazada data scraper - Easy data extraction tools of product, price, sales rank, review |
 | 7 | [**Tapicker - Powerful Web Data Scraper**](https://chrome.google.com/webstore/detail/tapicker-powerful-web-dat/baglkjackdnhdpjjcjpkhmemggiklhid) | A powerful web data scraper that supports extracting data from any website into Excel, CSV, or JSON files without writing any code. |
@@ -213,9 +214,9 @@ Enjoy :)
 | 5    | [**Chroma: Eyedropper & Color Picker Tool**](https://chrome.google.com/webstore/detail/chroma-eyedropper-color-p/pkgejkfioihnchalojepdkefnpejomgn) | Best Chrome extension for Eyedropper, color picker, and palette creator. Generate sharable palette pages, pick your colors from any pages, and many more.                                                                             |
 | 6    | [**Palette creator**](https://chrome.google.com/webstore/detail/palette-creator/iofmialeiddolmdlkbheakaefefkjokp)                                  | Creates a colour palette from any image. Just right-click on the image and select the “Palette Creator” option.                                                                                                                       |
 | 7    | [**Amazing color picker**](https://chrome.google.com/webstore/detail/amazing-color-picker/hclbckmnpbnkcpemopdngipibdagmjei)                        | The Amazing Color Picker app helps you get HEX color from the page.                                                                                                                                                                   |
-| 8    | [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)                                            | ColorZilla is the most user-friendly, full-featured, secure, and reliable color picker and color related suite of tools.                                                                                                              | 
+| 8    | [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)                                            | ColorZilla is the most user-friendly, full-featured, secure, and reliable color picker and color related suite of tools.                                                                                                              |
 | 9    | [**Extract Colors DevTool**](https://chromewebstore.google.com/detail/extract-colors-devtool/nfliekkcalinkhldnlpjgfigimdngchm)                     | Extract Colors DevTool offers: color palette extractor, color picker, clearing cache, leaning page (removes ads), full-page screenshot, and window resizer.
-| 10    | [**Palette & Hues 🎨**](https://chromewebstore.google.com/detail/palettes-hues-%F0%9F%8E%A8/miokoikjlpbhhfepkneagdjmgakendep)                     | Palettes & Hues 🎨 is a chrome extension to extract, pick and manage the dominant color palette from the visible area of any webpage or pick and manage specific color palettes using an uploaded image.                                                                                 | 
+| 10    | [**Palette & Hues 🎨**](https://chromewebstore.google.com/detail/palettes-hues-%F0%9F%8E%A8/miokoikjlpbhhfepkneagdjmgakendep)                     | Palettes & Hues 🎨 is a chrome extension to extract, pick and manage the dominant color palette from the visible area of any webpage or pick and manage specific color palettes using an uploaded image.                                                                                 |
 
 <div align="right">
 
@@ -257,7 +258,7 @@ Enjoy :)
 ### 🎥 Screen Capture and Recording
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
-| 1 | **[Nimbus Screenshot & Screen Video Recorder](https://chromewebstore.google.com/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)** | Make online screencasts of your desktop or selected browser tabs, or create videos using your webcam. | 
+| 1 | **[Nimbus Screenshot & Screen Video Recorder](https://chromewebstore.google.com/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)** | Make online screencasts of your desktop or selected browser tabs, or create videos using your webcam. |
 | 2 | [**GoFullPage - Full Page Screen Capture**](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) | Capture a screenshot of your current page in its entirety and reliably—without requesting any extra permissions! |
 | 3 | [**Lightshot Downloader**](https://chromewebstore.google.com/detail/lightshot-downloader/opgmkcnbfkfkpefcbcidclkcenhgjnim) | This extension allows you to open Lightshot screenshots via direct URL. Photos can be uploaded for photo editing. |
 | 4 | [**Awesome ChatGPT Screenshot & Screen Recorder**](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj) | The best screen recorder and screen capture tool to record the screen. |
@@ -274,11 +275,11 @@ Enjoy :)
 
 </div>
 
-### 🖋️ Text Generator 
+### 🖋️ Text Generator
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
-| 1 |[**Lorem Ipsum Generator**](https://chromewebstore.google.com/detail/lorem-ipsum-generator/pglahbfamjiifnafcicdibiiabpakkkb) | Quickly generate Lorem Ipsum placeholder text. Select a desired length and choose between paragraphs, words, bytes or lists. | 
-| 2 | [**Lipsum Generator**](https://chromewebstore.google.com/detail/lipsum-generator/fepopmflofkppphpkfjdbmimglkeifna) | Generate lorem ipsum dummy text in a drop of a hat. Over 1.5K users on Chrome Store. Available as a web app.| 
+| 1 |[**Lorem Ipsum Generator**](https://chromewebstore.google.com/detail/lorem-ipsum-generator/pglahbfamjiifnafcicdibiiabpakkkb) | Quickly generate Lorem Ipsum placeholder text. Select a desired length and choose between paragraphs, words, bytes or lists. |
+| 2 | [**Lipsum Generator**](https://chromewebstore.google.com/detail/lipsum-generator/fepopmflofkppphpkfjdbmimglkeifna) | Generate lorem ipsum dummy text in a drop of a hat. Over 1.5K users on Chrome Store. Available as a web app.|
 
 ### ✏ Writing and Grammar
 
@@ -291,11 +292,11 @@ Enjoy :)
 | 5 | **[TextCortex: Personal AI Assistant & AI Writer](https://chromewebstore.google.com/detail/textcortex-personal-ai-as/hahkojdegblcccihngmgndhdfheheofe)** | An AI companion that is designed to understand you and your writing needs. It actively presents options on how to make your content more authentic. |
 | 6 | [**Text Blaze: Templates and Snippets**](https://chromewebstore.google.com/detail/text-blaze-templates-and/idgadaccgipmpannjkmfddolnnhmeklj) | Create smart text expansions to get more done and streamline your work. Billions of keystrokes saved! |
 | 7 | [**ProKeys**](https://chromewebstore.google.com/detail/prokeys/ekfnbpgmmeahnnlpjibofkobpdkifapn) | Save time and effort in emails, etc., with ProKeys! Define snippets, do math in the browser, auto-complete braces, and much more. |
-| 8 | [**Compose AI: AI-powered Writing Tool**](https://chrome.google.com/webstore/detail/compose-ai-ai-powered-wri/ddlbpiadoechcolndfeaonajmngmhblj) | Generate any text using AI. Autocomplete your sentences where you type. With Compose AI, you can write emails, create documents, and chat faster.| 
+| 8 | [**Compose AI: AI-powered Writing Tool**](https://chrome.google.com/webstore/detail/compose-ai-ai-powered-wri/ddlbpiadoechcolndfeaonajmngmhblj) | Generate any text using AI. Autocomplete your sentences where you type. With Compose AI, you can write emails, create documents, and chat faster.|
 | 9 | [**HyperWrite - AI Assistant**](https://chrome.google.com/webstore/detail/hyperwrite-ai-assistant/kljjoeapehcmaphfcjkmbhkinoaopdnd) | An AI-powered assistant for web browsing, content creation, online research, task automation, and more – all in one extension. |
-| 10 | [**AISEO - AI Writing Companion.**](https://chrome.google.com/webstore/detail/aiseo-ai-writing-companio/hkfhclakgkhajfogkehjopahbphofpbn) | Paraphrase your content quickly and easily, and create unique, engaging content with just a few clicks using this Best Chrome extension | 
-| 11 | [**Wordtune: Generative AI productivity platform**](https://chromewebstore.google.com/detail/wordtune-generative-ai-pr/nllcnknpjnininklegdoijpljgdjkijc?hl=en) | Wordtune is a Generative AI platform for work productivity by writing emails, creating documents or sending instant messages to colleagues or clients. | 
-| 12 | [**Typing Made Fun: Improving typing speed and accuracy**](https://chromewebstore.google.com/detail/typing-made-fun/oabhfhfapkhbaidkcpncflcglimcfcpb?hl=en) | Track your typing performance with real-time words per minute (WPM) and analysis dashboard helping you improve your typing skills. | 
+| 10 | [**AISEO - AI Writing Companion.**](https://chrome.google.com/webstore/detail/aiseo-ai-writing-companio/hkfhclakgkhajfogkehjopahbphofpbn) | Paraphrase your content quickly and easily, and create unique, engaging content with just a few clicks using this Best Chrome extension |
+| 11 | [**Wordtune: Generative AI productivity platform**](https://chromewebstore.google.com/detail/wordtune-generative-ai-pr/nllcnknpjnininklegdoijpljgdjkijc?hl=en) | Wordtune is a Generative AI platform for work productivity by writing emails, creating documents or sending instant messages to colleagues or clients. |
+| 12 | [**Typing Made Fun: Improving typing speed and accuracy**](https://chromewebstore.google.com/detail/typing-made-fun/oabhfhfapkhbaidkcpncflcglimcfcpb?hl=en) | Track your typing performance with real-time words per minute (WPM) and analysis dashboard helping you improve your typing skills. |
 
 <div align="right">
 
@@ -333,7 +334,7 @@ Enjoy :)
 | 6 | [**uBlock Origin**](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) | Efficient open-source blocker for Chromium and Firefox. Fast and lightweight. |
 | 7 | [**SponsorBlock for YouTube**](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en) | Open-source crowdsourced browser extension and API for skipping sponsor segments in YouTube videos. |
 | 8 | [**AdBlock — Best Ad Blocker**](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?hl=en) | User-supported open-source Chrome browser extension that allows ad-free web surfing. |
-| 9 | [**Ghostery – Privacy Ad Blocker**](https://chromewebstore.google.com/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij) | An Powerful privacy Chrome extension. Block ads, stop trackers, and speed up websites. | 
+| 9 | [**Ghostery – Privacy Ad Blocker**](https://chromewebstore.google.com/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij) | An Powerful privacy Chrome extension. Block ads, stop trackers, and speed up websites. |
 
 <div align="right">
 
@@ -381,7 +382,7 @@ Enjoy :)
 | 10 | [**Redirect Path**](https://chromewebstore.google.com/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en) | A popular browser extension and web development tool helps users identify and analyze HTTP status codes and redirects on websites. |
 | 11 | [**SEOquake**](https://chromewebstore.google.com/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc) | SEOquake is a free plugin that provides you with key SEO metrics, along with other useful tools such as SEO Audit and many others. |
 | 12 | [**Hunter - Email Finder Extension**](https://chromewebstore.google.com/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj?hl=en) | Find email addresses from anywhere on the web, with just one click. |
-| 13 | [**Check My Links**](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en) | Check My Links is a link checker that crawls through your webpage and looks for broken links. | 
+| 13 | [**Check My Links**](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en) | Check My Links is a link checker that crawls through your webpage and looks for broken links. |
 | 14 | [**Pindodo - Pinterest SEO Keyword Tool**](https://chromewebstore.google.com/detail/pindodo-pinterest-ranking/mkpmadpjiphhpondccmkndccfjknbjdi) | Boost Your Pinterest Growth with the Ultimate Pinterest SEO Tool! Pindodo has the best tools to help you gain more visibility/traffic on Pinterest. |
 | 15 | [**Sprout SEO 🌱 Extension**](https://chromewebstore.google.com/detail/sprout-seo-extension-%F0%9F%8C%B1/appgbhabfeejggifkkbfdbkfckheiojk) | Speed up your daily SEO routine: get one-click insights on any page you're on. Enhance your SERP with Trends & Core Web Vitals data, PAA scraper, and much more. Sprout is for marketers who take SEO seriously. |
 
@@ -395,4 +396,4 @@ Enjoy :)
 
 ---
 
-If you would like to make a valuable contribution to this list, we kindly ask you to take a moment to review our [Contributing Guidelines](https://github.com/themeselection/best-chrome-extensions/blob/main/CONTRIBUTING.md) . 
+If you would like to make a valuable contribution to this list, we kindly ask you to take a moment to review our [Contributing Guidelines](https://github.com/themeselection/best-chrome-extensions/blob/main/CONTRIBUTING.md) .
