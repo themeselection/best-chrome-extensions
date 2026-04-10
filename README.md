@@ -45,6 +45,7 @@ Enjoy :)
   - [**🖋️ Text Generator**](https://github.com/themeselection/best-chrome-extensions#%EF%B8%8F-text-generator)
   - [**✏ Writing and Grammar**](https://github.com/themeselection/best-chrome-extensions#-writing-and-grammar)
   - [**⬇ Image and Video Downloaders**](https://github.com/themeselection/best-chrome-extensions#-image-and-video-downloaders)
+  - [**🔄 Image and File Converters**](https://github.com/themeselection/best-chrome-extensions#-image-and-file-converters)
   - [**🚫 Ad-Blockers**](https://github.com/themeselection/best-chrome-extensions#-ad-blockers)
   - [**🤖 AI Copilots and Productivity Tools**](https://github.com/themeselection/best-chrome-extensions#-ai-copilots-and-productivity-tools)
   - [**📊 SEO and Web Analysis Tools**](https://github.com/themeselection/best-chrome-extensions#-seo-and-web-analysis-tools)
@@ -315,6 +316,18 @@ Enjoy :)
 | 6 | [**Video Downloader Professional - MPMux**](https://chrome.google.com/webstore/detail/video-downloader-professi/iikjcbakondakcbblkccdmiaiklnddke) | Professional video downloader that can save or record online videos in various formats like HLS, m3u8, mp4, etc. |
 | 7 | [**Utaku Downloader**](https://chrome.google.com/webstore/detail/utaku-image-downloader-%EC%9D%B4%EB%AF%B8/gdkbclbkmeggbekkkddcfjbcaapojihk?) | Free image and video downloader that extracts original images and videos within the page with custom settings. |
 | 8 | [**Image Downloader - Save Pictures**](https://chrome.google.com/webstore/detail/image-downloader-save-pic/lljfdfgehokbedlmjobjijdimlpajchg) | Find, choose, and download images from any web pages or bulk download all images at once. |
+
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions#table-of-contents)
+
+</div>
+
+### 🔄 Image and File Converters
+
+| No | Extension | Description |
+| ------ | ------------------------------------------------------ |---------------------|
+| 1 | [**HEIC to PNG Converter**](https://chromewebstore.google.com/detail/hlkifcnbooeflbhjbghkgbmjpalnfpia) | Convert HEIC, WebP, and AVIF images to JPG/PNG directly in your browser. 100% client-side — files never leave your device. |
 
 <div align="right">
 
