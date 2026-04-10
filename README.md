@@ -123,6 +123,7 @@ Enjoy :)
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Wappalyzer - Technology profiler**](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) | This extension is a technology profiler that shows you what websites are built with and Find out what CMS a website is using, as well as any framework, ecommerce platform, etc. |
+| 2 | [**Related Repos**](https://chromewebstore.google.com/detail/related-repos/hjjchbgenhmnndipngamcilolaahgngc) | Quickly view related open source repositories while browsing on GitHub. Results updated daily. |
 
 ### 🛡️ Password Manager & Security
 ---
