@@ -48,6 +48,7 @@ Enjoy :)
   - [**🚫 Ad-Blockers**](https://github.com/themeselection/best-chrome-extensions#-ad-blockers)
   - [**🤖 AI Copilots and Productivity Tools**](https://github.com/themeselection/best-chrome-extensions#-ai-copilots-and-productivity-tools)
   - [**📊 SEO and Web Analysis Tools**](https://github.com/themeselection/best-chrome-extensions#-seo-and-web-analysis-tools)
+  - [**🌍 Language & Translation**](https://github.com/themeselection/best-chrome-extensions#-language--translation)
 ---
 
 ## Best Chrome Extensions Useful for Developers
@@ -385,6 +386,21 @@ Enjoy :)
 | 14 | [**Pindodo - Pinterest SEO Keyword Tool**](https://chromewebstore.google.com/detail/pindodo-pinterest-ranking/mkpmadpjiphhpondccmkndccfjknbjdi) | Boost Your Pinterest Growth with the Ultimate Pinterest SEO Tool! Pindodo has the best tools to help you gain more visibility/traffic on Pinterest. |
 | 15 | [**Sprout SEO 🌱 Extension**](https://chromewebstore.google.com/detail/sprout-seo-extension-%F0%9F%8C%B1/appgbhabfeejggifkkbfdbkfckheiojk) | Speed up your daily SEO routine: get one-click insights on any page you're on. Enhance your SERP with Trends & Core Web Vitals data, PAA scraper, and much more. Sprout is for marketers who take SEO seriously. |
 
+
+
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions#table-of-contents)
+
+</div>
+
+---
+
+### 🌍 Language & Translation
+| No | Extension | Description |
+| ------ | ------------------------------------------------------ |---------------------|
+| 1 | [**Mirlo**](https://chromewebstore.google.com/detail/mirlo-%E2%80%94-language-learning/bolaihmnmcaedodmcempenkddbkolaih) | Learn a language while you browse. Replaces words on pages with the language you're learning. On-device translation, no accounts, no tracking. |
+| 2 | [**Read Frog**](https://chromewebstore.google.com/detail/read-frog-open-source-ai/modkelfkcfjpgbfmnbnllalkiogfofhb) | Open-source AI-powered language learning with bilingual translation, article analysis, and vocabulary tools. Supports 80+ languages via 20+ AI providers. |
 
 
 <div align="right">
