@@ -192,6 +192,7 @@ Enjoy :)
 | 6 | [**Lazada Data Scraper - Product, Sales**](https://chrome.google.com/webstore/detail/lazada-data-scraper-produ/npcnedfmaedfllbdeclhichngngdiabj) | Lazada data scraper - Easy data extraction tools of product, price, sales rank, review |
 | 7 | [**Tapicker - Powerful Web Data Scraper**](https://chrome.google.com/webstore/detail/tapicker-powerful-web-dat/baglkjackdnhdpjjcjpkhmemggiklhid) | A powerful web data scraper that supports extracting data from any website into Excel, CSV, or JSON files without writing any code. |
 | 8 | [**IM Data Scrapper Tool**](https://chrome.google.com/webstore/detail/im-data-scrapper-tool/obpmbnhmkopaoedpkjkhhiaignnpfngb) | The "IM Data Scraper Tool" is a powerful software application designed to extract and gather data from IndiaMart, one of India's largest online marketplaces for businesses. |
+| 9 | [**Scrupp — LinkedIn Scraper & Email Finder**](https://scrupp.com) | Scrupp scrapes LinkedIn and Sales Navigator searches and enriches contacts with verified work emails and phone numbers via multi-provider waterfall with SMTP verification. Exports to CSV, HubSpot, or Pipedrive. Free plan with usage-based pricing. |
 
 <div align="right">
 
