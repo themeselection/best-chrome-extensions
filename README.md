@@ -127,6 +127,10 @@ Enjoy :)
 ### 🛡️ Password Manager & Security
 ---
 
+#### [EnigmAgent](https://chrome.google.com/webstore/detail/kjelbdaphngolbjfgaahljhpkhknjank)
+
+Encrypted local vault for AI agents using {{PLACEHOLDER}} references. AES-256-GCM + Argon2id. Secrets never reach the LLM. [(GitHub)](https://github.com/Agnuxo1/EnigmAgent)
+
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1      | [**LastPass: Free Password Manager**](https://chromewebstore.google.com/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)             | An award-winning password manager that saves your passwords and gives you secure access from every computer and mobile device from your browser. |
