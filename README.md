@@ -160,6 +160,7 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
+| 3 | [**Browy**](https://chromewebstore.google.com/detail/iondecjdokngnlkfpipgolgkfegpmjca) | Open-source AI agent that lives in the side panel and Chrome DevTools and drives real browser tabs through chat. Summarise pages, fill forms, scrape data, run JavaScript from a prompt. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 ---
