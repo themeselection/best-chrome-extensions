@@ -160,6 +160,7 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
+| 3 | [**Flowly Tasks & Timer**](https://chromewebstore.google.com/detail/flowly-tasks-timer/jbbhikmmjpnldgcplimclkiggjbbcpja) | A side-panel task manager with built-in Pomodoro timer and time-tracked tasks, so you can plan the day and track time without leaving the current tab. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 ---
