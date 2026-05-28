@@ -87,6 +87,7 @@ Enjoy :)
 | 10 | [**Yet Another REST Client**](https://chromewebstore.google.com/detail/yet-another-rest-client/ehafadccdcdedbhcbddihehiodgcddpl) | Easy-to-use REST Client to develop, test, and debug RESTful APIs. |
 | 11 | [**BugBug Automation Testing**](https://chromewebstore.google.com/detail/bugbug-automation-testing/oiedehaafceacbnnmindilfblafincjb) | A codeless test automation tool designed for SaaS teams to automate E2E testing of web apps and websites. |
 
+| 12 | [**URL Environment Switcher**](https://github.com/ttcd77/url-switcher) | Chrome extension that toggles between localhost, staging, and production URLs in one click. Free, open-source, Manifest V3. |
 <div align="right">
 
 [**Top 🔼**](https://github.com/themeselection/best-chrome-extensions#table-of-contents)
