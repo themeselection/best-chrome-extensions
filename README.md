@@ -138,6 +138,7 @@ Enjoy :)
 | 7      | [**DualSafe Password Manager & Digital Vault**](https://chromewebstore.google.com/detail/dualsafe-password-manager/lgbjhdkjmpgjgcbcdlhkokkckpjmedgc) | DualSafe Password Manager extension lets you safely manage passwords in one place to autosave, autofill & access them anytime. |
 | 8      | [**Proton Pass: Free Password Manager**](https://chromewebstore.google.com/detail/proton-pass-free-password/ghmbeldphafepmbegfdlkpapadhbakde) | Free and unlimited password manager to keep your login credentials safe and manage them directly in your browser. |
 | 9      | [**Bitwarden - Free Password Manager**](https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) | Bitwarden is the easiest and safest way to store all of your logins and passwords while conveniently keeping them synced between all of your devices. |
+| 10     | [**Agent Browser Shield**](https://chromewebstore.google.com/detail/agent-browser-shield/gnejacdioaelglahihpagpfjpddpnamd) | Sits between an AI agent and the web, masking PII and credentials, blocking prompt injection, and stripping dark patterns before pages reach the model. |
 
 <div align="right">
 
