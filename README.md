@@ -110,6 +110,7 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Gitako - GitHub file tree**](https://chromewebstore.google.com/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk) | Gitako is a browser extension that provides a file tree view for GitHub repositories. It enhances the GitHub user interface by adding a sidebar that displays the directory structure of the repository you are currently viewing. |
 | 2 | [**Refined GitHub**](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) | GitHub offers basic version-control features, while Refined GitHub enhances the experience with added functionality and customization options for version-controlled projects. |
+| 3 | [**PR Radar**](https://chromewebstore.google.com/detail/hkombgibegjffiadmekpiabdakkoidmh) | A free, unified pull request dashboard for GitHub, GitLab, and Bitbucket. Shows CI status, unresolved comments, review state, and deployment status, with desktop and sound notifications — all without keeping a tab open. |
 
 <div align="right">
 
