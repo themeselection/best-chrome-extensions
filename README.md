@@ -267,6 +267,7 @@ Enjoy :)
 | 8 | [**Web Paint Tool - draw online**](https://chrome.google.com/webstore/detail/web-paint-tool-draw-onlin/iklgljbighkgbjoecoddejooldolenbj) | Draw rectangles, circles, lines, and other shapes or add text on any web pages, then make a screenshot of the result. |
 | 9 | [**Screen Capture, Screenshot, Annotations**](https://chrome.google.com/webstore/detail/screen-capture-screenshot/bmkgbgkneealfabgnjfeljaiegpginpl) | Get more out of your screen captures! The best screen recorder and screen capture & screenshot tool to record the screen. |
 | 10 | [**FileShot – Screenshot & Encrypted File Sharing**](https://chromewebstore.google.com/detail/ppbbdbmpeckkimfplcgodkeejmjakjik) | Capture and securely share screenshots or files with AES-256-GCM browser-side encryption. Zero-knowledge: decryption key stays in the URL, never sent to the server. |
+| 11 | [**Full Page Screenshot & Screen Recorder**](https://chromewebstore.google.com/detail/full-page-screenshot-scre/gebkchfkcnjdflkfdimabihllibgcdhp) | Full-page screenshots and screen recorder with annotation. Record tab and webcam, export to GIF or MP4. No account, no watermark, no limits. |
 
 <div align="right">
 
