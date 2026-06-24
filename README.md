@@ -247,6 +247,7 @@ Enjoy :)
 | 5 | [**Mark tab manager**](https://chrome.google.com/webstore/detail/mark-tab-manager/filgplhfalgafolkffphilkgckdgnona/) | Mark is a minimalist tab manager that organizes tabs as you browse. With Mark, tabs are automatically grouped by domain and sorted alphabetically so you can easily find them later. |
 | 6 | [**Pondr: Tab Manager & Bookmark Reminder**](https://chrome.google.com/webstore/detail/pondr-tab-manager-bookmar/dmldofeoomonpalhgkbnfckliaeghjag) | This Chrome Extension manages bookmarks and suggests you the best time to revisit them. |
 | 7 | [**TabHub: Next-generation Tab Manager**](https://chrome.google.com/webstore/detail/tabhub-next-generation-ta/lmofhhaibahhojhinmpgmifdmennlcjn) | A next-generation tab manager. Manage tabs on cloud, track browsing time efficiently and reduce browser memory usage. |
+| 8 | [**Super Session Manager - Tab Manager & Bookmark Manager**](https://chromewebstore.google.com/detail/super-session-manager-tab/apkaoclnnejpmhhbgmehcaekkfnomedd) | Super Session Manager helps you save, organize and restore tab sessions, tab groups & bookmarks. Privacy-focused Tab Manager. |
 
 <div align="right">
 
