@@ -44,6 +44,7 @@ Enjoy :)
   - [**🎥 Screen Capture and Recording**](https://github.com/themeselection/best-chrome-extensions#-screen-capture-and-recording)
   - [**🖋️ Text Generator**](https://github.com/themeselection/best-chrome-extensions#%EF%B8%8F-text-generator)
   - [**✏ Writing and Grammar**](https://github.com/themeselection/best-chrome-extensions#-writing-and-grammar)
+  - [**🌍 Language Learning**](https://github.com/themeselection/best-chrome-extensions#-language-learning)
   - [**⬇ Image and Video Downloaders**](https://github.com/themeselection/best-chrome-extensions#-image-and-video-downloaders)
   - [**🚫 Ad-Blockers**](https://github.com/themeselection/best-chrome-extensions#-ad-blockers)
   - [**🤖 AI Copilots and Productivity Tools**](https://github.com/themeselection/best-chrome-extensions#-ai-copilots-and-productivity-tools)
@@ -296,6 +297,18 @@ Enjoy :)
 | 10 | [**AISEO - AI Writing Companion.**](https://chrome.google.com/webstore/detail/aiseo-ai-writing-companio/hkfhclakgkhajfogkehjopahbphofpbn) | Paraphrase your content quickly and easily, and create unique, engaging content with just a few clicks using this Best Chrome extension | 
 | 11 | [**Wordtune: Generative AI productivity platform**](https://chromewebstore.google.com/detail/wordtune-generative-ai-pr/nllcnknpjnininklegdoijpljgdjkijc?hl=en) | Wordtune is a Generative AI platform for work productivity by writing emails, creating documents or sending instant messages to colleagues or clients. | 
 | 12 | [**Typing Made Fun: Improving typing speed and accuracy**](https://chromewebstore.google.com/detail/typing-made-fun/oabhfhfapkhbaidkcpncflcglimcfcpb?hl=en) | Track your typing performance with real-time words per minute (WPM) and analysis dashboard helping you improve your typing skills. | 
+
+<div align="right">
+
+[**Top 🔼**](https://github.com/themeselection/best-chrome-extensions#table-of-contents)
+
+</div>
+
+### 🌍 Language Learning
+
+| No | Extension | Description |
+| ------ | ------------------------------------------------------ |---------------------|
+| 1 | [**Vocabo**](https://chromewebstore.google.com/detail/jkidhonedioaomijgdccandhiffoiheb) | Learn a language while you browse. Replaces words and phrases on any page with their translation in the language you're learning, keeping the rest of the sentence in your own language for context. Free, no signup, 194+ languages. |
 
 <div align="right">
 
