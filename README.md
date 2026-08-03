@@ -387,6 +387,7 @@ Enjoy :)
 
 
 
+| 16 | [**Broken Link Checker**](https://chromewebstore.google.com/detail/broken-link-checker/cipdlgmjblnniiicohcmcafcncippbha) | Checks every link on the current page, flags broken URLs and redirects, lets you jump to affected links, and exports a CSV report for audits and QA. |
 <div align="right">
 
 [**Top 🔼**](https://github.com/themeselection/best-chrome-extensions#table-of-contents)
