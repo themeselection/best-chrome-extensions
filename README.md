@@ -172,6 +172,7 @@ Enjoy :)
 | 4 | [**Planet VPN - Free VPN Proxy & ad blocker**](https://chrome.google.com/webstore/detail/free-vpn-proxy-and-ad-blo/hipncndjamdcmphkgngojegjblibadbe?) | Fast, secure, and unlimited VPN Proxy service for Chrome with 100% free servers, bulletproof encryption, and anonymous access to blocked websites and resources. |
 | 5 | [**Hotspot Shield**](https://chrome.google.com/webstore/detail/hotspot-shield/nlbejmccbhkncgokjcmghpfloaajcffj) | Hotspot Shield VPN Proxy provides a secure proxy connection through an encrypted channel between your device and the target website, using VPN technology. |
 | 6 | [**Astar VPN - Free and fast VPN for everyone**](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh) | Encrypt your connection, access our secure proxy servers & unblock websites easily. |
+| 7 | [**Noctis - Browser Proxy**](https://chromewebstore.google.com/detail/noctis/nmhobajopepdpihahepaddpdifdcenpn) | Routes only your browser through your own proxy server over VLESS Reality, VMess, Trojan, Shadowsocks, Hysteria2, TUIC or WireGuard, with per-host rules for what goes direct and what is blocked. |
 
 <div align="right">
 
