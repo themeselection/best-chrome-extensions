@@ -160,6 +160,7 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
+| 3 | [**Gmail Unsubscribe**](https://chromewebstore.google.com/detail/gmail-unsubscribe-bulk-em/jljicfihpdcimopabpijdhhjbmenjala) | Bulk unsubscribe and delete or archive unwanted emails inside Gmail - no server-side inbox access required. Free tier; 104k+ installs. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 ---
