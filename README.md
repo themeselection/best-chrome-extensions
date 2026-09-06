@@ -384,6 +384,7 @@ Enjoy :)
 | 13 | [**Check My Links**](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en) | Check My Links is a link checker that crawls through your webpage and looks for broken links. | 
 | 14 | [**Pindodo - Pinterest SEO Keyword Tool**](https://chromewebstore.google.com/detail/pindodo-pinterest-ranking/mkpmadpjiphhpondccmkndccfjknbjdi) | Boost Your Pinterest Growth with the Ultimate Pinterest SEO Tool! Pindodo has the best tools to help you gain more visibility/traffic on Pinterest. |
 | 15 | [**Sprout SEO 🌱 Extension**](https://chromewebstore.google.com/detail/sprout-seo-extension-%F0%9F%8C%B1/appgbhabfeejggifkkbfdbkfckheiojk) | Speed up your daily SEO routine: get one-click insights on any page you're on. Enhance your SERP with Trends & Core Web Vitals data, PAA scraper, and much more. Sprout is for marketers who take SEO seriously. |
+| 16 | [**SiteData – Website Traffic & AdSense Analysis**](https://chromewebstore.google.com/detail/emeakbgdecgmdjgegnejpppcnkcnoaen) | SiteData is a Chrome extension that analyzes any website's traffic, ranking keywords, Google Ads activity, and reverse AdSense connections. |
 
 
 
