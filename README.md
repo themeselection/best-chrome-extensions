@@ -160,6 +160,7 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
+| 3 | [**CardDeals: Automatic Gift Card Discounts & Deals**](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) | Automatically detects verified discount gift cards at checkout to save 5% to 15% across 1,000+ top online stores. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 ---
