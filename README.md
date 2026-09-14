@@ -160,6 +160,7 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
+| 3 | [**CareClinic Tracker for Chrome**](https://chromewebstore.google.com/detail/careclinic-tracker-for-ch/hmbpfjdbcckaniiehodjdgbhhghpaeok) | Track symptoms, complete medication reminders, review recent health trends, and keep CareClinic check-ins together while browsing in Chrome. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 ---
