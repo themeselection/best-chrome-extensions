@@ -160,6 +160,7 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
+| 3 | [**ApplyCandid**](https://applycandid.com) | Free Chrome extension that scores resume-job fit, tailors your resume with AI, and autofills job applications across LinkedIn, Greenhouse, Lever, Workday, and most ATS platforms. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 ---
