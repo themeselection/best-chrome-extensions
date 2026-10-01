@@ -359,6 +359,7 @@ Enjoy :)
 | 12 | [**ChatsNow：ChatGPT, Claude SideBar(GPT- 4,Draw)**](https://chrome.google.com/webstore/detail/chatsnow%EF%BC%9Achatgpt-claude-s/hcmiiaachajoiijecmakkhlcpagafklj?hl=en) | AI assistant utilizing OpenAI's GPT-4, GPT-3.5, and GPT-4 models. Offers writing assistance, AI-generated drawings, enhanced search engines, and answers to various questions. |
 | 13 | [**ChatGPT Widescreen Mode**](https://chromewebstore.google.com/detail/chatgpt-widescreen-mode/jgnjpnmofkalfliddjelaciggjgnphgm) | Adds Widescreen + Fullscreen modes to [chatgpt.com](https://chatgpt.com) + [perplexity.ai](https://perplexity.ai) + [poe.com](https://poe.com) to enhance viewing and reduce scrolling. |
 | 14 | [**onUI**](https://chromewebstore.google.com/detail/onui/logpkalmdihdklbbcnhoanfddlcnbgmh) | Open-source browser extension for annotation-first UI pair programming with AI agents. Annotate, draw, and capture UI context from any webpage. Includes local MCP server for Claude Code, Cursor, and Windsurf integration. [GitHub](https://github.com/onllm-dev/onUI) |
+| 15 | [**PageGrok: Summarize Webpages in a Chrome Side Panel**](https://chromewebstore.google.com/detail/pagegrok/ajemiedkkbheokigkmejodiadgmgbpll) | PageGrok opens a side panel beside the page you read to summarize it or a clipped region and answer follow-ups. Built-in AI works after install, no signup. |
 
 <div align="right">
 
