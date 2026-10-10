@@ -160,6 +160,7 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
+| 3 | [**LinkUnzip - Extract ZIP from a link**](https://chromewebstore.google.com/detail/dapeiljhjlaelolngnoagobeojcpkica) | Extract a ZIP from a link straight into a folder without saving the ZIP. Every file checked. Windows, with a small free helper app. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 ---
