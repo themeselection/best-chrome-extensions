@@ -86,6 +86,7 @@ Enjoy :)
 | 9 | [**WAVE Evaluation Tool**](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) | Evaluate web accessibility within your browser. |
 | 10 | [**Yet Another REST Client**](https://chromewebstore.google.com/detail/yet-another-rest-client/ehafadccdcdedbhcbddihehiodgcddpl) | Easy-to-use REST Client to develop, test, and debug RESTful APIs. |
 | 11 | [**BugBug Automation Testing**](https://chromewebstore.google.com/detail/bugbug-automation-testing/oiedehaafceacbnnmindilfblafincjb) | A codeless test automation tool designed for SaaS teams to automate E2E testing of web apps and websites. |
+| 12 | [**Quick Scan First — GitHub release checks**](https://chromewebstore.google.com/detail/quick-scan-first/goimgdjenphgchhcbgjafdbimjogafad) | Checks GitHub repositories for exposed credentials and other release risks, with optional AI reviews and fixes opened as pull requests for developer review. |
 
 <div align="right">
 
