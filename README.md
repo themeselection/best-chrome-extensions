@@ -102,6 +102,7 @@ Enjoy :)
 | 2 | [**Amino: CSS Live Editor**](https://chromewebstore.google.com/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf) | Customize websites with CSS by creating your own user style sheets. Customize page appearance, fix rendering bugs, and many more. |
 | 3 | [**Visual CSS Editor**](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) | Customize any website without coding click on an element and start visual editing, adjust colors, fonts, sizes, positions, and a lot more. |
 | 4 | [**Quickfix CSS Editor**](https://chromewebstore.google.com/detail/quickfix-css-editor/nfebnkiihbkhjjeomdjjmeafdkdepjbe) | Use Quickfix to easily adjust, add, or delete CSS without having to upload it or deploy it. Quickfix is a really easy way to edit CSS in Google Chrome. |
+| 5 | [**Stylepick - CSS, Font & Color Inspector**](https://chromewebstore.google.com/detail/jjapfmekebjkbphokpocgfdbdkogcdnm) | Hover any element to see its font, colors and spacing, then copy only the CSS that differs from browser defaults. Runs locally, no account. Optional paid Pro. |
 
 ### 🗂️ Version Control
 ---
