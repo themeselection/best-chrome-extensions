@@ -315,6 +315,7 @@ Enjoy :)
 | 6 | [**Video Downloader Professional - MPMux**](https://chrome.google.com/webstore/detail/video-downloader-professi/iikjcbakondakcbblkccdmiaiklnddke) | Professional video downloader that can save or record online videos in various formats like HLS, m3u8, mp4, etc. |
 | 7 | [**Utaku Downloader**](https://chrome.google.com/webstore/detail/utaku-image-downloader-%EC%9D%B4%EB%AF%B8/gdkbclbkmeggbekkkddcfjbcaapojihk?) | Free image and video downloader that extracts original images and videos within the page with custom settings. |
 | 8 | [**Image Downloader - Save Pictures**](https://chrome.google.com/webstore/detail/image-downloader-save-pic/lljfdfgehokbedlmjobjijdimlpajchg) | Find, choose, and download images from any web pages or bulk download all images at once. |
+| 9 | [**FlowPick - Media Sniffer & Downloader**](https://chromewebstore.google.com/detail/flowpick-media-sniffer-do/mfinfkkabangbkanlfhhbokgfekjklea) | Detect and download page videos, HLS streams, audio and images, with media previews and local processing in Chrome, Edge and Firefox browsers. |
 
 <div align="right">
 
