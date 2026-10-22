@@ -48,6 +48,7 @@ Enjoy :)
   - [**🚫 Ad-Blockers**](https://github.com/themeselection/best-chrome-extensions#-ad-blockers)
   - [**🤖 AI Copilots and Productivity Tools**](https://github.com/themeselection/best-chrome-extensions#-ai-copilots-and-productivity-tools)
   - [**📊 SEO and Web Analysis Tools**](https://github.com/themeselection/best-chrome-extensions#-seo-and-web-analysis-tools)
+  - [**🛒 Shopping and Price Tools**](https://github.com/themeselection/best-chrome-extensions#-shopping-and-price-tools)
 ---
 
 ## Best Chrome Extensions Useful for Developers
@@ -384,6 +385,14 @@ Enjoy :)
 | 13 | [**Check My Links**](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en) | Check My Links is a link checker that crawls through your webpage and looks for broken links. | 
 | 14 | [**Pindodo - Pinterest SEO Keyword Tool**](https://chromewebstore.google.com/detail/pindodo-pinterest-ranking/mkpmadpjiphhpondccmkndccfjknbjdi) | Boost Your Pinterest Growth with the Ultimate Pinterest SEO Tool! Pindodo has the best tools to help you gain more visibility/traffic on Pinterest. |
 | 15 | [**Sprout SEO 🌱 Extension**](https://chromewebstore.google.com/detail/sprout-seo-extension-%F0%9F%8C%B1/appgbhabfeejggifkkbfdbkfckheiojk) | Speed up your daily SEO routine: get one-click insights on any page you're on. Enhance your SERP with Trends & Core Web Vitals data, PAA scraper, and much more. Sprout is for marketers who take SEO seriously. |
+
+
+### 🛒 Shopping and Price Tools
+| No | Extension | Description |
+| ------ | ------------------------------------------------------ |---------------------|
+| 1 | [**Retrowert – Preischeck für Kleinanzeigen & eBay**](https://chromewebstore.google.com/detail/llnmjaffkfdpkggjjdlkedpehpceeohe) | Shows the market value of retro video games and Pokémon cards next to every listing price on kleinanzeigen.de and ebay.de, with a bargain filter and alerts. |
+| 2 | [**Keepa - Amazon Price Tracker**](https://chromewebstore.google.com/detail/keepa-amazon-price-tracke/neebplgakaahbhdphmkckjjcegoiijjo) | Adds price history charts to Amazon product pages and lets you set price drop alerts, so you can see whether a current price is a real deal. |
+| 3 | [**Honey: Automatic Coupons & Rewards**](https://chromewebstore.google.com/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj) | Automatically searches for and applies coupon codes at checkout on many online shops, and shows the price history of items on supported sites. |
 
 
 
