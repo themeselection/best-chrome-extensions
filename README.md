@@ -99,7 +99,7 @@ Enjoy :)
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Live editor for CSS, Less & Sass - Magic CSS**](https://chromewebstore.google.com/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol) | With this tool, you can start writing your CSS/Less/Sass code in the browser extension and see it applied instantly. Your code will be saved in the extension or site's local storage. |
-| 2 | [**Amino: CSS Live Editor**](https://chromewebstore.google.com/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf) | Customize websites with CSS by creating your own user style sheets. Customize page appearance, fix rendering bugs, and many more. |
+| 2 | [**Amino: CSS Live Editor**](https://chrome.google.com/webstore/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf) | Customize websites with CSS by creating your own user style sheets. Customize page appearance, fix rendering bugs, and many more. |
 | 3 | [**Visual CSS Editor**](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) | Customize any website without coding click on an element and start visual editing, adjust colors, fonts, sizes, positions, and a lot more. |
 | 4 | [**Quickfix CSS Editor**](https://chromewebstore.google.com/detail/quickfix-css-editor/nfebnkiihbkhjjeomdjjmeafdkdepjbe) | Use Quickfix to easily adjust, add, or delete CSS without having to upload it or deploy it. Quickfix is a really easy way to edit CSS in Google Chrome. |
 
@@ -160,6 +160,7 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
+| 3 | [**WebWell: Calm New Tab, Focus Timer and Site Blocker**](https://chromewebstore.google.com/detail/webwell/mnjakeggjhfdookcdgjdgmamhcobnofi) | Calm new tab with a focus timer, ambient sounds and radio, site blocking and private on-device screen-time stats. Free and open source. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 ---
@@ -326,7 +327,7 @@ Enjoy :)
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**AdGuard AdBlocker**](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) | Effectively blocks all types of ads on all web pages, including Facebook, YouTube, and more. |
-| 2 | [**AdLock: Adblocker & Privacy Protection**](https://chrome.google.com/webstore/detail/adlock-adblocker-privacy/aemffjkmgcepimloclpkecifcnipnodh?hl=en) | Blocks ads on favorite websites, including video and audio ads on platforms like YouTube, Crunchyroll, Spotify, SoundCloud, etc. |
+| 2 | [**AdLock: Adblocker & Privacy Protection**](https://chrome.google.com/webstore/detail/adlock-adblocker-privacy/aemffjkmgcepimlocpkifcnipnodh?hl=en) | Blocks ads on favorite websites, including video and audio ads on platforms like YouTube, Crunchyroll, Spotify, SoundCloud, etc. |
 | 3 | [**AdBlocker Ultimate**](https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=en) | Free extension that blocks text, banner ads, Facebook ads, and malicious domains known to spread malware. |
 | 4 | [**AdBlock Plus**](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en) | Open-source ad blocker that blocks banners, video, and pop-up advertisements. |
 | 5 | [**AdBlocker Stands**](https://chrome.google.com/webstore/detail/adblocker-stands/lgblnfidahcdcjddiepkckcfdhpknnjh?hl=en) | Removes banners, pop-ups, and more, enhancing your browsing experience and ensuring safety from threats and tracking. |
@@ -346,7 +347,7 @@ Enjoy :)
 | No | Extension | Description |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**LINER: ChatGPT AI Copilot for Web&YouTube&PDF**](https://chromewebstore.google.com/detail/liner-chatgpt-ai-copilot/bmhcbmnbenmcecpmpepghooflbehcack?hl=en) | Use ChatGPT directly on websites, including YouTube. Add AI Copilot to enhance productivity with your personal AI assistant. |
-| 2 | [**Monica - Your AI Copilot powered by GPT-4**](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb) | AI Copilot powered by GPT-4. Answers complex questions, writes emails, reads articles, and searches smartly. Usable everywhere. |
+| 2 | [**Monica - Your AI Copilot powered by GPT-4**](https://chrome.google.com/webstore/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb) | AI Copilot powered by GPT-4. Answers complex questions, writes emails, reads articles, and searches smartly. Usable everywhere. |
 | 3 | [**MaxAI.me: Use ChatGPT AI Anywhere Online**](https://chromewebstore.google.com/detail/maxaime-use-chatgpt-ai-an/mhnlakgilnojmhinhkckjpncpbhabphi?hl=en) | Fastest way to use ChatGPT, Claude, Bard, Bing anywhere online. The only generative AI-powered extension you need. |
 | 4 | [**SciSpace: Do hours of research in minutes**](https://chrome.google.com/webstore/detail/scispace-do-hours-of-rese/cipccbpjpemcnijhjcdjmkjhmhniiick?hl=en) | SciSpace provides research-backed explanations or summaries for text, maths, and tables in research papers, technical blog posts, or reports. |
 | 5 | [**SearchGPT for Chrome**](https://chrome.google.com/webstore/detail/searchgpt-for-chrome/ninecedhhpccjifamhafbdelibdjibgd?hl=en) | Display ChatGPT AI responses within search engines like Google and Bing. Enhance your browsing experience with AI-generated responses. |
@@ -376,7 +377,7 @@ Enjoy :)
 | 5 | [**Ahrefs SEO Toolbar: On-Page and SERP Tools**](https://chromewebstore.google.com/detail/ahrefs-seo-toolbar-on-pag/hgmoccdbjhknikckedaaebbpdeebhiei) | The Ahrefs SEO Toolbar is a versatile free multi-tool for SEO professionals and webmasters, encompassing a range of valuable features. |
 | 6 | [**Website SEO Checker: Free Audit & Analysis**](https://chromewebstore.google.com/detail/website-seo-checker-free/nljcdkjpjnhlilgepggmmagnmebhadnk) | Get a free on-page SEO report with the best website SEO checker. Use SEO analysis to do an audit for the most valuable pages at first. |
 | 7 | [**Ubersuggest - SEO and Keyword Discovery**](https://chromewebstore.google.com/detail/ubersuggest-seo-and-keywo/nmpgaoofmjlimabncmnmnopjabbflegf) | The Ubersuggest extension will not only provide you with insightful data related to a specific keyword query on Google™ but also on sites like YouTube™, Amazon™ & more. |
-| 8 | [**Keywords Everywhere - Keyword Tool**](https://chromewebstore.google.com/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp?hl=en) | Keywords Everywhere is a freemium Chrome extension that helps you find Keyword search volume, CPC, and competition for 15+ websites like Google™ Search Console, YouTube™, Amazon™ & more. |
+| 8 | [**Keywords Everywhere - Keyword Tool**](https://chromewebstore.google.com/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp?hl=en) | Keywords Everywhere is a freemium Chrome extension that helps you find Keyword search volume, CPC, and competition for 15+ websites like Google™, YouTube™, Amazon™ & more. |
 | 9 | [**Similarweb - Traffic Rank & Website Analysis**](https://chromewebstore.google.com/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) | Get in-depth insights on any website you visit. Similarweb’s free extension is your all-in-one solution for website analysis and traffic monitoring. |
 | 10 | [**Redirect Path**](https://chromewebstore.google.com/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en) | A popular browser extension and web development tool helps users identify and analyze HTTP status codes and redirects on websites. |
 | 11 | [**SEOquake**](https://chromewebstore.google.com/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc) | SEOquake is a free plugin that provides you with key SEO metrics, along with other useful tools such as SEO Audit and many others. |
