@@ -123,6 +123,7 @@ Enjoy :)
 | No | Extension | Description  |
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**Wappalyzer - Technology profiler**](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) | This extension is a technology profiler that shows you what websites are built with and Find out what CMS a website is using, as well as any framework, ecommerce platform, etc. |
+| 2 | [**SyncMarket - View Tracker**](https://flippr-dashboard-td.web.app) | Real-time marketplace view counter, 7-day velocity charts, and stale listing decay detection for Gumtree and eBay sellers with local-first privacy. |
 
 ### 🛡️ Password Manager & Security
 ---
