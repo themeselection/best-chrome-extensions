@@ -395,4 +395,5 @@ Enjoy :)
 
 ---
 
-If you would like to make a valuable contribution to this list, we kindly ask you to take a moment to review our [Contributing Guidelines](https://github.com/themeselection/best-chrome-extensions/blob/main/CONTRIBUTING.md) . 
+If you would like to make a valuable contribution to this list, we kindly ask you to take a moment to review our [Contributing Guidelines](https://github.com/themeselection/best-chrome-extensions/blob/main/CONTRIBUTING.md) . | 16 | [**iFollowTracker – Instagram Unfollow & Recent Follow Tracker**](https://chromewebstore.google.com/detail/ifollowtracker-for-instag/ijhkhodnjfdogpidfpamkmghhfkfopgh) | Research public Instagram profiles from a side panel: recent follows, follower lists, and unfollow changes. No Instagram login required. |
+
