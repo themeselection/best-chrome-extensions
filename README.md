@@ -160,6 +160,7 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
+| 3 | [**Douban Random - Random Picker for Your Douban Watchlist**](https://chromewebstore.google.com/detail/bmaafglngmalgmpglcejlkelemibpdoe) | Randomly picks one movie, TV show, or book from your own Douban watchlist and read list, so you stop scrolling and start watching. Unofficial; data stays local. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 ---
