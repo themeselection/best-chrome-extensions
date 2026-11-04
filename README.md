@@ -359,6 +359,7 @@ Enjoy :)
 | 12 | [**ChatsNow：ChatGPT, Claude SideBar(GPT- 4,Draw)**](https://chrome.google.com/webstore/detail/chatsnow%EF%BC%9Achatgpt-claude-s/hcmiiaachajoiijecmakkhlcpagafklj?hl=en) | AI assistant utilizing OpenAI's GPT-4, GPT-3.5, and GPT-4 models. Offers writing assistance, AI-generated drawings, enhanced search engines, and answers to various questions. |
 | 13 | [**ChatGPT Widescreen Mode**](https://chromewebstore.google.com/detail/chatgpt-widescreen-mode/jgnjpnmofkalfliddjelaciggjgnphgm) | Adds Widescreen + Fullscreen modes to [chatgpt.com](https://chatgpt.com) + [perplexity.ai](https://perplexity.ai) + [poe.com](https://poe.com) to enhance viewing and reduce scrolling. |
 | 14 | [**onUI**](https://chromewebstore.google.com/detail/onui/logpkalmdihdklbbcnhoanfddlcnbgmh) | Open-source browser extension for annotation-first UI pair programming with AI agents. Annotate, draw, and capture UI context from any webpage. Includes local MCP server for Claude Code, Cursor, and Windsurf integration. [GitHub](https://github.com/onllm-dev/onUI) |
+| 15 | [**Compass Apply**](https://chromewebstore.google.com/detail/compass-apply/lmbfdipbbnedcecbcgodhjechoangkng) | Fills job applications from your Compass OS profile, attaches your tailored resume and drafts open answers. You review every answer, and it never submits for you. |
 
 <div align="right">
 
