@@ -334,7 +334,7 @@ Enjoy :)
 | 7 | [**SponsorBlock for YouTube**](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en) | Open-source crowdsourced browser extension and API for skipping sponsor segments in YouTube videos. |
 | 8 | [**AdBlock — Best Ad Blocker**](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?hl=en) | User-supported open-source Chrome browser extension that allows ad-free web surfing. |
 | 9 | [**Ghostery – Privacy Ad Blocker**](https://chromewebstore.google.com/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij) | An Powerful privacy Chrome extension. Block ads, stop trackers, and speed up websites. | 
-
+| 10 | [**Pure Spoiler Shield - Spoiler Blocker**](https://chromewebstore.google.com/detail/aloilpojkoblacapdlknacjiljgjibng) | Blurs spoilers for games, series, films and anime on YouTube, Reddit and X. 35 ready-made lists in 13 languages. Runs locally, no account, no tracking. |
 <div align="right">
 
 [**Top 🔼**](https://github.com/themeselection/best-chrome-extensions#table-of-contents)
