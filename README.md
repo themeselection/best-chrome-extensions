@@ -160,6 +160,7 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
+| 3 | [**KaijuConverter Extension**](https://github.com/PabloCirre/kaijuconverter-extension) | Instant browser extension for quick file and media conversions (PDF, audio, video, images) right from the toolbar and context menu. [Web](https://kaijuconverter.com/integrations). |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 ---
