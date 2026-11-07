@@ -86,6 +86,7 @@ Enjoy :)
 | 9 | [**WAVE Evaluation Tool**](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) | Evaluate web accessibility within your browser. |
 | 10 | [**Yet Another REST Client**](https://chromewebstore.google.com/detail/yet-another-rest-client/ehafadccdcdedbhcbddihehiodgcddpl) | Easy-to-use REST Client to develop, test, and debug RESTful APIs. |
 | 11 | [**BugBug Automation Testing**](https://chromewebstore.google.com/detail/bugbug-automation-testing/oiedehaafceacbnnmindilfblafincjb) | A codeless test automation tool designed for SaaS teams to automate E2E testing of web apps and websites. |
+| 12 | [**knobs - Test a page in any setting**](https://chromewebstore.google.com/detail/knobs/cpdmafeojnbdnnhldafobkaajiemcidj) | Test a page in dark mode, reduced motion, larger text, another locale or right-to-left, another time zone and phone sizes with touch. Free and open source. |
 
 <div align="right">
 
