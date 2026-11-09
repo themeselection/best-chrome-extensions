@@ -172,6 +172,7 @@ Enjoy :)
 | 4 | [**Planet VPN - Free VPN Proxy & ad blocker**](https://chrome.google.com/webstore/detail/free-vpn-proxy-and-ad-blo/hipncndjamdcmphkgngojegjblibadbe?) | Fast, secure, and unlimited VPN Proxy service for Chrome with 100% free servers, bulletproof encryption, and anonymous access to blocked websites and resources. |
 | 5 | [**Hotspot Shield**](https://chrome.google.com/webstore/detail/hotspot-shield/nlbejmccbhkncgokjcmghpfloaajcffj) | Hotspot Shield VPN Proxy provides a secure proxy connection through an encrypted channel between your device and the target website, using VPN technology. |
 | 6 | [**Astar VPN - Free and fast VPN for everyone**](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh) | Encrypt your connection, access our secure proxy servers & unblock websites easily. |
+| 7 | [**Ownsteps: Step-by-Step Guides with Screenshots**](https://chromewebstore.google.com/detail/ownsteps-step-by-step-gui/gdfhiiknoaajkghalmfahmohbkmfpfgl) | Turn browser clicks into editable how-to guides and SOPs with screenshots. Guides stay in your browser, and free Word and PDF exports are included. |
 
 <div align="right">
 
