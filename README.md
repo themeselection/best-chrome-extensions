@@ -296,6 +296,7 @@ Enjoy :)
 | 10 | [**AISEO - AI Writing Companion.**](https://chrome.google.com/webstore/detail/aiseo-ai-writing-companio/hkfhclakgkhajfogkehjopahbphofpbn) | Paraphrase your content quickly and easily, and create unique, engaging content with just a few clicks using this Best Chrome extension | 
 | 11 | [**Wordtune: Generative AI productivity platform**](https://chromewebstore.google.com/detail/wordtune-generative-ai-pr/nllcnknpjnininklegdoijpljgdjkijc?hl=en) | Wordtune is a Generative AI platform for work productivity by writing emails, creating documents or sending instant messages to colleagues or clients. | 
 | 12 | [**Typing Made Fun: Improving typing speed and accuracy**](https://chromewebstore.google.com/detail/typing-made-fun/oabhfhfapkhbaidkcpncflcglimcfcpb?hl=en) | Track your typing performance with real-time words per minute (WPM) and analysis dashboard helping you improve your typing skills. | 
+| 13 | [**Phrase Flip: Learn Languages While Browsing**](https://chromewebstore.google.com/detail/phrase-flip/clkfmkjdahoaicedhpmefjfehdgncadl) | Learn languages naturally while browsing by replacing a customizable share of sentences with on-device translations; hover any phrase to reveal the original. |
 
 <div align="right">
 
