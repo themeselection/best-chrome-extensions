@@ -192,6 +192,7 @@ Enjoy :)
 | 6 | [**Lazada Data Scraper - Product, Sales**](https://chrome.google.com/webstore/detail/lazada-data-scraper-produ/npcnedfmaedfllbdeclhichngngdiabj) | Lazada data scraper - Easy data extraction tools of product, price, sales rank, review |
 | 7 | [**Tapicker - Powerful Web Data Scraper**](https://chrome.google.com/webstore/detail/tapicker-powerful-web-dat/baglkjackdnhdpjjcjpkhmemggiklhid) | A powerful web data scraper that supports extracting data from any website into Excel, CSV, or JSON files without writing any code. |
 | 8 | [**IM Data Scrapper Tool**](https://chrome.google.com/webstore/detail/im-data-scrapper-tool/obpmbnhmkopaoedpkjkhhiaignnpfngb) | The "IM Data Scraper Tool" is a powerful software application designed to extract and gather data from IndiaMart, one of India's largest online marketplaces for businesses. |
+| 9 | [**Table to CSV & Excel: RowCraft Extractor**](https://chromewebstore.google.com/detail/ofhajfbdajpjidhcpbofkoeaegjjafeg) | Extract HTML tables, Shadow DOM, and ARIA grids to clean UTF-8 BOM CSV or multi-sheet Excel (.xlsx) files in one click with 100% client-side privacy. |
 
 <div align="right">
 
