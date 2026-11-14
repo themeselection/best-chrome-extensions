@@ -160,7 +160,6 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
-
 | 3 | [**Observer by JWS — Watch Time Tracker**](https://chromewebstore.google.com/detail/observer-by-jws-%E2%80%94-watch-t/mnhgamgbhdpjjiemlphdednphoblljpd) | Tracks real playback time on YouTube, Twitch and Kick by channel, with a dashboard for viewing trends and optional sync across devices. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
