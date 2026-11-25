@@ -160,6 +160,7 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
+| 3 | [**Sunasty QR Code Scanner & Generator**](https://chromewebstore.google.com/detail/sunasty-qr-code-scanner-g/fbiighpklpogdbnhdapbiijcadhlijcb) | Zero-tracking MIT MV3 extension to scan multiple QR codes on the active tab, decode Wi-Fi/vCard/RFC 6238 TOTP payloads, and export SVG/PNG QR codes offline ([GitHub](https://github.com/bsulyan/sunasty-qr-scanner)). |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 ---
